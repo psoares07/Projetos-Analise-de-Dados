@@ -30,69 +30,69 @@ _Stores_: Informações sobre os lojistas cadastrados.
 
 ### 1. Estudo dos Dados
 
-    A análise inicial identificou que a base opera sob uma lógica relacional, conectando transações centrais a entidades de cadastro via chaves estrangeiras.
+A análise inicial identificou que a base opera sob uma lógica relacional, conectando transações centrais a entidades de cadastro via chaves estrangeiras.
 
-    *Tabela Fato (F)*: A tabela orders foi definida como a fato principal, contendo eventos granulares e métricas quantitativas. As tabelas payments e deliveries atuam como fatos auxiliares.
+*Tabela Fato (F)*: A tabela orders foi definida como a fato principal, contendo eventos granulares e métricas quantitativas. As tabelas payments e deliveries atuam como fatos auxiliares.
 
-    *Tabelas Dimensão (D)*: As tabelas stores, hubs, channels e drivers foram classificadas como dimensões, fornecendo contexto descritivo.
+*Tabelas Dimensão (D)*: As tabelas stores, hubs, channels e drivers foram classificadas como dimensões, fornecendo contexto descritivo.
 
 ### 2. Planejamento
 
-    O dashboard foi escopado em duas perspectivas: Estratégica (Financeira) e Tática (Operacional).
+O dashboard foi escopado em duas perspectivas: Estratégica (Financeira) e Tática (Operacional).
 
-    *KPIs Definidos*:
+*KPIs Definidos*:
 
-    Volume: Faturamento Bruto e Quantidade de Pedidos Válidos.
+Volume: Faturamento Bruto e Quantidade de Pedidos Válidos.
 
-    Eficiência: Ticket Médio e Taxa de Cancelamento.
+Eficiência: Ticket Médio e Taxa de Cancelamento.
 
-    Logística: Tempo Médio de Ciclo (segmentado entre Food e Good).
+Logística: Tempo Médio de Ciclo (segmentado entre Food e Good).
 
-    *Visualizações Escolhidas*:
+*Visualizações Escolhidas*:
 
-    Cartões (Big Numbers): Para números macro.
+Cartões (Big Numbers): Para números macro.
 
-    Gráfico de Área: Para tendência temporal e crescimento.
+Gráfico de Área: Para tendência temporal e crescimento.
 
-    Gráfico de Barras: Para análise de Pareto (Ranking de Hubs).
+Gráfico de Barras: Para análise de Pareto (Ranking de Hubs).
 
-    Scatter Plot (Dispersão): Para correlação Distância vs. Tempo.
+Scatter Plot (Dispersão): Para correlação Distância vs. Tempo.
 
-    Matriz Hierárquica: Para drill-down com alertas visuais.
+Matriz Hierárquica: Para drill-down com alertas visuais.
 
 ### 3. Processo de ETL (Power Query)
 
-    O tratamento de dados garantiu a integridade da análise através das seguintes ações:
+O tratamento de dados garantiu a integridade da análise através das seguintes ações:
 
-    *Correção de Localidade*: Conversão manual de colunas financeiras (order_amount) e de tempo (order_metric_cycle_time) que utilizavam padrão americano (ponto), evitando erros de multiplicação.
+*Correção de Localidade*: Conversão manual de colunas financeiras (order_amount) e de tempo (order_metric_cycle_time) que utilizavam padrão americano (ponto), evitando erros de multiplicação.
 
-    *Remoção de Outliers*: Exclusão do registro "HUBLESS SHOPPING", que apresentava métricas irreais (Distância > 270km e Tempo > 9.600 min).
+*Remoção de Outliers*: Exclusão do registro "HUBLESS SHOPPING", que apresentava métricas irreais (Distância > 270km e Tempo > 9.600 min).
 
-    *Padronização*: Conversão de colunas de timestamp para formato Data/Hora.
+*Padronização*: Conversão de colunas de timestamp para formato Data/Hora.
 
 ### 4. Modelagem de Dados
 
-    Utilizou-se o esquema Star Schema para otimização de performance.
+Utilizou-se o esquema Star Schema para otimização de performance.
 
-    Relacionamentos: Estabelecidos relacionamentos Um-para-Muitos (1:*) entre dimensões e a tabela fato orders.
+Relacionamentos: Estabelecidos relacionamentos Um-para-Muitos (1:*) entre dimensões e a tabela fato orders.
 
-    Tabela Calendário: Criada via DAX (CALENDARAUTO) para análises temporais.
+Tabela Calendário: Criada via DAX (CALENDARAUTO) para análises temporais.
 
-    Medidas DAX:
+Medidas DAX:
 
-    CALCULATE: Para filtrar pedidos finalizados (order_status = "FINISHED").
+CALCULATE: Para filtrar pedidos finalizados (order_status = "FINISHED").
 
-    ALL: Para cálculo de Market Share.
+ALL: Para cálculo de Market Share.
 
-    DIVIDE: Para evitar erros de divisão por zero.
+DIVIDE: Para evitar erros de divisão por zero.
 
 ### 5. Composição Visual e Storytelling
 
-    A estrutura foi dividida em duas narrativas:
+A estrutura foi dividida em duas narrativas:
 
-    Página 1 - Visão Executiva (O "Quê"): Leitura macro da saúde financeira seguindo o padrão em "Z" (KPIs -> Pareto -> Risco de Canal -> Tendência).
+Página 1 - Visão Executiva (O "Quê"): Leitura macro da saúde financeira seguindo o padrão em "Z" (KPIs -> Pareto -> Risco de Canal -> Tendência).
 
-    Página 2 - Visão Operacional (O "Porquê"): Foco em gargalos. O destaque é o Gráfico de Dispersão (comprovando baixa correlação distância/atraso) e a Matriz Hierárquica com formatação condicional (alerta vermelho para entregas > 60 min).
+Página 2 - Visão Operacional (O "Porquê"): Foco em gargalos. O destaque é o Gráfico de Dispersão (comprovando baixa correlação distância/atraso) e a Matriz Hierárquica com formatação condicional (alerta vermelho para entregas > 60 min).
 
 ## 💡 Principais Insights
 
