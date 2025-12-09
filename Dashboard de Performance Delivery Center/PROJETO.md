@@ -40,7 +40,7 @@ A análise inicial identificou que a base opera sob uma lógica relacional, cone
 
 O dashboard foi escopado em duas perspectivas: Estratégica (Financeira) e Tática (Operacional).
 
-*KPIs Definidos*:
+_KPIs Definidos_:
 
 Volume: Faturamento Bruto e Quantidade de Pedidos Válidos.
 
