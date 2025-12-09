@@ -40,7 +40,7 @@ A análise inicial identificou que a base opera sob uma lógica relacional, cone
 
 O dashboard foi escopado em duas perspectivas: Estratégica (Financeira) e Tática (Operacional).
 
-_KPIs Definidos_:
+**KPIs Definidos**:
 
 Volume: Faturamento Bruto e Quantidade de Pedidos Válidos.
 
@@ -48,7 +48,7 @@ Eficiência: Ticket Médio e Taxa de Cancelamento.
 
 Logística: Tempo Médio de Ciclo (segmentado entre Food e Good).
 
-*Visualizações Escolhidas*:
+**Visualizações Escolhidas**:
 
 Cartões (Big Numbers): Para números macro.
 
@@ -64,11 +64,11 @@ Matriz Hierárquica: Para drill-down com alertas visuais.
 
 O tratamento de dados garantiu a integridade da análise através das seguintes ações:
 
-*Correção de Localidade*: Conversão manual de colunas financeiras (order_amount) e de tempo (order_metric_cycle_time) que utilizavam padrão americano (ponto), evitando erros de multiplicação.
+**Correção de Localidade**: Conversão manual de colunas financeiras (order_amount) e de tempo (order_metric_cycle_time) que utilizavam padrão americano (ponto), evitando erros de multiplicação.
 
-*Remoção de Outliers*: Exclusão do registro "HUBLESS SHOPPING", que apresentava métricas irreais (Distância > 270km e Tempo > 9.600 min).
+**Remoção de Outliers**: Alerta do registro "HUBLESS SHOPPING", que apresenta métricas irreais (Distância > 270km e Tempo > 9.600 min). O registro foi mantido, por se tratar de um Hub importante, portanto é recomendado a revisão e correção do dado coletado
 
-*Padronização*: Conversão de colunas de timestamp para formato Data/Hora.
+**Padronização**: Conversão de colunas de timestamp para formato Data/Hora.
 
 ### 4. Modelagem de Dados
 
@@ -78,7 +78,7 @@ Relacionamentos: Estabelecidos relacionamentos Um-para-Muitos (1:*) entre dimens
 
 Tabela Calendário: Criada via DAX (CALENDARAUTO) para análises temporais.
 
-Medidas DAX:
+**Medidas DAX**:
 
 CALCULATE: Para filtrar pedidos finalizados (order_status = "FINISHED").
 
@@ -90,14 +90,14 @@ DIVIDE: Para evitar erros de divisão por zero.
 
 A estrutura foi dividida em duas narrativas:
 
-Página 1 - Visão Executiva (O "Quê"): Leitura macro da saúde financeira seguindo o padrão em "Z" (KPIs -> Pareto -> Risco de Canal -> Tendência).
+**Página 1 - Visão Executiva (O "Quê")**: Leitura macro da saúde financeira seguindo o padrão em "Z" (KPIs -> Pareto -> Risco de Canal -> Tendência).
 
-Página 2 - Visão Operacional (O "Porquê"): Foco em gargalos. O destaque é o Gráfico de Dispersão (comprovando baixa correlação distância/atraso) e a Matriz Hierárquica com formatação condicional (alerta vermelho para entregas > 60 min).
+**Página 2 - Visão Operacional (O "Porquê")**: Foco em gargalos. O destaque é o Gráfico de Dispersão (comprovando baixa correlação distância/atraso) e a Matriz Hierárquica com formatação condicional (alerta vermelho para entregas > 60 min).
 
 ## 💡 Principais Insights
 
-*Paradoxo da Eficiência*: O Golden Shopping, apesar de líder em faturamento, apresenta gargalos operacionais com tempos acima da média. Em contrapartida, o Fortran Shopping é um benchmark de agilidade, mesmo em longas distâncias. O Canal Próprio (OWN CHANNEL) apresenta alta variabilidade e processos logísticos menos robustos que os marketplaces.
+**Paradoxo da Eficiência**: O Golden Shopping, apesar de líder em faturamento, apresenta gargalos operacionais com tempos acima da média. Em contrapartida, o Fortran Shopping é um benchmark de agilidade, mesmo em longas distâncias. O Canal Próprio (OWN CHANNEL) apresenta alta variabilidade e processos logísticos menos robustos que os marketplaces.
 
-*Risco de Dependência*: Os Marketplaces dominam 79% do faturamento. Essa dependência reduz margens devido às taxas e expõe a empresa a mudanças de algoritmo. Sugere-se migração de clientes fiéis para o app próprio.
+**Risco de Dependência**: Os Marketplaces dominam 79% do faturamento. Essa dependência reduz margens devido às taxas e expõe a empresa a mudanças de algoritmo. Sugere-se migração de clientes fiéis para o app próprio.
 
-*Consolidação em Março*: O mês de março consolidou a base de clientes, superando janeiro e fevereiro e estabelecendo um novo patamar de faturamento. Deve-se investigar se o crescimento foi orgânico ou sazonal para o planejamento futuro.
+**Consolidação em Março**: O mês de março consolidou a base de clientes, superando janeiro e fevereiro e estabelecendo um novo patamar de faturamento. Deve-se investigar se o crescimento foi orgânico ou sazonal para o planejamento futuro.
