@@ -1,0 +1,1562 @@
+1766342885: mosquitto version 2.0.22 starting
+1766342885: Config loaded from /mosquitto/config/mosquitto.conf.
+1766342885: Opening ipv4 listen socket on port 1883.
+1766342885: Opening ipv6 listen socket on port 1883.
+1766342885: mosquitto version 2.0.22 running
+1766343602: New connection from 172.18.0.1:32838 on port 1883.
+1766343603: New client connected from 172.18.0.1:32838 as esp32_lab_01 (p2, c1, k0).
+1766343694: Client esp32_lab_01 closed its connection.
+1766343698: New connection from 172.18.0.1:34324 on port 1883.
+1766343698: New client connected from 172.18.0.1:34324 as esp32_lab_01 (p2, c1, k0).
+1766343703: New connection from 172.18.0.1:54008 on port 1883.
+1766343704: Client esp32_lab_01 already connected, closing old connection.
+1766343704: New client connected from 172.18.0.1:54008 as esp32_lab_01 (p2, c1, k0).
+1766343709: New connection from 172.18.0.1:54012 on port 1883.
+1766343709: Client esp32_lab_01 already connected, closing old connection.
+1766343709: New client connected from 172.18.0.1:54012 as esp32_lab_01 (p2, c1, k0).
+1766343714: New connection from 172.18.0.1:53720 on port 1883.
+1766343714: Client esp32_lab_01 already connected, closing old connection.
+1766343714: New client connected from 172.18.0.1:53720 as esp32_lab_01 (p2, c1, k0).
+1766343720: New connection from 172.18.0.1:53726 on port 1883.
+1766343720: Client esp32_lab_01 already connected, closing old connection.
+1766343720: New client connected from 172.18.0.1:53726 as esp32_lab_01 (p2, c1, k0).
+1766343735: Client esp32_lab_01 closed its connection.
+1766343974: New connection from 172.18.0.1:42290 on port 1883.
+1766343974: New client connected from 172.18.0.1:42290 as esp32_lab_01 (p2, c1, k0).
+1766343979: New connection from 172.18.0.1:42306 on port 1883.
+1766343979: Client esp32_lab_01 already connected, closing old connection.
+1766343979: New client connected from 172.18.0.1:42306 as esp32_lab_01 (p2, c1, k0).
+1766343985: New connection from 172.18.0.1:39752 on port 1883.
+1766343985: Client esp32_lab_01 already connected, closing old connection.
+1766343985: New client connected from 172.18.0.1:39752 as esp32_lab_01 (p2, c1, k0).
+1766343990: New connection from 172.18.0.1:39758 on port 1883.
+1766343990: Client esp32_lab_01 already connected, closing old connection.
+1766343990: New client connected from 172.18.0.1:39758 as esp32_lab_01 (p2, c1, k0).
+1766343996: New connection from 172.18.0.1:37550 on port 1883.
+1766343996: Client esp32_lab_01 already connected, closing old connection.
+1766343996: New client connected from 172.18.0.1:37550 as esp32_lab_01 (p2, c1, k0).
+1766344001: New connection from 172.18.0.1:46432 on port 1883.
+1766344001: Client esp32_lab_01 already connected, closing old connection.
+1766344001: New client connected from 172.18.0.1:46432 as esp32_lab_01 (p2, c1, k0).
+1766344007: New connection from 172.18.0.1:46446 on port 1883.
+1766344007: Client esp32_lab_01 already connected, closing old connection.
+1766344007: New client connected from 172.18.0.1:46446 as esp32_lab_01 (p2, c1, k0).
+1766344012: New connection from 172.18.0.1:47886 on port 1883.
+1766344012: Client esp32_lab_01 already connected, closing old connection.
+1766344012: New client connected from 172.18.0.1:47886 as esp32_lab_01 (p2, c1, k0).
+1766344017: New connection from 172.18.0.1:47898 on port 1883.
+1766344017: Client esp32_lab_01 already connected, closing old connection.
+1766344017: New client connected from 172.18.0.1:47898 as esp32_lab_01 (p2, c1, k0).
+1766344023: New connection from 172.18.0.1:43724 on port 1883.
+1766344023: Client esp32_lab_01 already connected, closing old connection.
+1766344023: New client connected from 172.18.0.1:43724 as esp32_lab_01 (p2, c1, k0).
+1766344028: New connection from 172.18.0.1:43728 on port 1883.
+1766344028: Client esp32_lab_01 already connected, closing old connection.
+1766344028: New client connected from 172.18.0.1:43728 as esp32_lab_01 (p2, c1, k0).
+1766344034: New connection from 172.18.0.1:54336 on port 1883.
+1766344034: Client esp32_lab_01 already connected, closing old connection.
+1766344034: New client connected from 172.18.0.1:54336 as esp32_lab_01 (p2, c1, k0).
+1766344039: New connection from 172.18.0.1:54350 on port 1883.
+1766344039: Client esp32_lab_01 already connected, closing old connection.
+1766344039: New client connected from 172.18.0.1:54350 as esp32_lab_01 (p2, c1, k0).
+1766344044: New connection from 172.18.0.1:55458 on port 1883.
+1766344045: Client esp32_lab_01 already connected, closing old connection.
+1766344045: New client connected from 172.18.0.1:55458 as esp32_lab_01 (p2, c1, k0).
+1766344050: New connection from 172.18.0.1:55462 on port 1883.
+1766344050: Client esp32_lab_01 already connected, closing old connection.
+1766344050: New client connected from 172.18.0.1:55462 as esp32_lab_01 (p2, c1, k0).
+1766344055: New connection from 172.18.0.1:44102 on port 1883.
+1766344055: Client esp32_lab_01 already connected, closing old connection.
+1766344055: New client connected from 172.18.0.1:44102 as esp32_lab_01 (p2, c1, k0).
+1766344061: New connection from 172.18.0.1:44118 on port 1883.
+1766344061: Client esp32_lab_01 already connected, closing old connection.
+1766344061: New client connected from 172.18.0.1:44118 as esp32_lab_01 (p2, c1, k0).
+1766344066: New connection from 172.18.0.1:49294 on port 1883.
+1766344066: Client esp32_lab_01 already connected, closing old connection.
+1766344066: New client connected from 172.18.0.1:49294 as esp32_lab_01 (p2, c1, k0).
+1766344072: New connection from 172.18.0.1:38458 on port 1883.
+1766344072: Client esp32_lab_01 already connected, closing old connection.
+1766344072: New client connected from 172.18.0.1:38458 as esp32_lab_01 (p2, c1, k0).
+1766344077: New connection from 172.18.0.1:38464 on port 1883.
+1766344077: Client esp32_lab_01 already connected, closing old connection.
+1766344077: New client connected from 172.18.0.1:38464 as esp32_lab_01 (p2, c1, k0).
+1766344082: New connection from 172.18.0.1:54460 on port 1883.
+1766344082: Client esp32_lab_01 already connected, closing old connection.
+1766344082: New client connected from 172.18.0.1:54460 as esp32_lab_01 (p2, c1, k0).
+1766344088: New connection from 172.18.0.1:54474 on port 1883.
+1766344088: Client esp32_lab_01 already connected, closing old connection.
+1766344088: New client connected from 172.18.0.1:54474 as esp32_lab_01 (p2, c1, k0).
+1766344093: New connection from 172.18.0.1:37460 on port 1883.
+1766344093: Client esp32_lab_01 already connected, closing old connection.
+1766344093: New client connected from 172.18.0.1:37460 as esp32_lab_01 (p2, c1, k0).
+1766344099: New connection from 172.18.0.1:37472 on port 1883.
+1766344099: Client esp32_lab_01 already connected, closing old connection.
+1766344099: New client connected from 172.18.0.1:37472 as esp32_lab_01 (p2, c1, k0).
+1766344104: New connection from 172.18.0.1:59976 on port 1883.
+1766344104: Client esp32_lab_01 already connected, closing old connection.
+1766344104: New client connected from 172.18.0.1:59976 as esp32_lab_01 (p2, c1, k0).
+1766344109: New connection from 172.18.0.1:59992 on port 1883.
+1766344109: Client esp32_lab_01 already connected, closing old connection.
+1766344109: New client connected from 172.18.0.1:59992 as esp32_lab_01 (p2, c1, k0).
+1766344115: New connection from 172.18.0.1:39872 on port 1883.
+1766344115: Client esp32_lab_01 already connected, closing old connection.
+1766344115: New client connected from 172.18.0.1:39872 as esp32_lab_01 (p2, c1, k0).
+1766344120: New connection from 172.18.0.1:39884 on port 1883.
+1766344120: Client esp32_lab_01 already connected, closing old connection.
+1766344120: New client connected from 172.18.0.1:39884 as esp32_lab_01 (p2, c1, k0).
+1766344126: New connection from 172.18.0.1:34788 on port 1883.
+1766344126: Client esp32_lab_01 already connected, closing old connection.
+1766344126: New client connected from 172.18.0.1:34788 as esp32_lab_01 (p2, c1, k0).
+1766344131: New connection from 172.18.0.1:34792 on port 1883.
+1766344131: Client esp32_lab_01 already connected, closing old connection.
+1766344131: New client connected from 172.18.0.1:34792 as esp32_lab_01 (p2, c1, k0).
+1766344136: New connection from 172.18.0.1:47056 on port 1883.
+1766344136: Client esp32_lab_01 already connected, closing old connection.
+1766344136: New client connected from 172.18.0.1:47056 as esp32_lab_01 (p2, c1, k0).
+1766344142: New connection from 172.18.0.1:53062 on port 1883.
+1766344142: Client esp32_lab_01 already connected, closing old connection.
+1766344142: New client connected from 172.18.0.1:53062 as esp32_lab_01 (p2, c1, k0).
+1766344147: New connection from 172.18.0.1:53078 on port 1883.
+1766344147: Client esp32_lab_01 already connected, closing old connection.
+1766344147: New client connected from 172.18.0.1:53078 as esp32_lab_01 (p2, c1, k0).
+1766344153: New connection from 172.18.0.1:48436 on port 1883.
+1766344153: Client esp32_lab_01 already connected, closing old connection.
+1766344153: New client connected from 172.18.0.1:48436 as esp32_lab_01 (p2, c1, k0).
+1766344158: New connection from 172.18.0.1:48442 on port 1883.
+1766344158: Client esp32_lab_01 already connected, closing old connection.
+1766344158: New client connected from 172.18.0.1:48442 as esp32_lab_01 (p2, c1, k0).
+1766344163: New connection from 172.18.0.1:46158 on port 1883.
+1766344163: Client esp32_lab_01 already connected, closing old connection.
+1766344163: New client connected from 172.18.0.1:46158 as esp32_lab_01 (p2, c1, k0).
+1766344169: New connection from 172.18.0.1:46160 on port 1883.
+1766344169: Client esp32_lab_01 already connected, closing old connection.
+1766344169: New client connected from 172.18.0.1:46160 as esp32_lab_01 (p2, c1, k0).
+1766344174: New connection from 172.18.0.1:36160 on port 1883.
+1766344174: Client esp32_lab_01 already connected, closing old connection.
+1766344174: New client connected from 172.18.0.1:36160 as esp32_lab_01 (p2, c1, k0).
+1766344180: New connection from 172.18.0.1:36172 on port 1883.
+1766344180: Client esp32_lab_01 already connected, closing old connection.
+1766344180: New client connected from 172.18.0.1:36172 as esp32_lab_01 (p2, c1, k0).
+1766344185: New connection from 172.18.0.1:50030 on port 1883.
+1766344185: Client esp32_lab_01 already connected, closing old connection.
+1766344185: New client connected from 172.18.0.1:50030 as esp32_lab_01 (p2, c1, k0).
+1766344190: New connection from 172.18.0.1:50042 on port 1883.
+1766344191: Client esp32_lab_01 already connected, closing old connection.
+1766344191: New client connected from 172.18.0.1:50042 as esp32_lab_01 (p2, c1, k0).
+1766344196: New connection from 172.18.0.1:45488 on port 1883.
+1766344196: Client esp32_lab_01 already connected, closing old connection.
+1766344196: New client connected from 172.18.0.1:45488 as esp32_lab_01 (p2, c1, k0).
+1766344201: New connection from 172.18.0.1:49734 on port 1883.
+1766344201: Client esp32_lab_01 already connected, closing old connection.
+1766344201: New client connected from 172.18.0.1:49734 as esp32_lab_01 (p2, c1, k0).
+1766344207: New connection from 172.18.0.1:49746 on port 1883.
+1766344207: Client esp32_lab_01 already connected, closing old connection.
+1766344207: New client connected from 172.18.0.1:49746 as esp32_lab_01 (p2, c1, k0).
+1766344212: New connection from 172.18.0.1:39594 on port 1883.
+1766344212: Client esp32_lab_01 already connected, closing old connection.
+1766344212: New client connected from 172.18.0.1:39594 as esp32_lab_01 (p2, c1, k0).
+1766344217: New connection from 172.18.0.1:39610 on port 1883.
+1766344217: Client esp32_lab_01 already connected, closing old connection.
+1766344217: New client connected from 172.18.0.1:39610 as esp32_lab_01 (p2, c1, k0).
+1766344223: New connection from 172.18.0.1:54762 on port 1883.
+1766344223: Client esp32_lab_01 already connected, closing old connection.
+1766344223: New client connected from 172.18.0.1:54762 as esp32_lab_01 (p2, c1, k0).
+1766344228: New connection from 172.18.0.1:54774 on port 1883.
+1766344228: Client esp32_lab_01 already connected, closing old connection.
+1766344228: New client connected from 172.18.0.1:54774 as esp32_lab_01 (p2, c1, k0).
+1766344234: New connection from 172.18.0.1:48540 on port 1883.
+1766344234: Client esp32_lab_01 already connected, closing old connection.
+1766344234: New client connected from 172.18.0.1:48540 as esp32_lab_01 (p2, c1, k0).
+1766344239: New connection from 172.18.0.1:48546 on port 1883.
+1766344239: Client esp32_lab_01 already connected, closing old connection.
+1766344239: New client connected from 172.18.0.1:48546 as esp32_lab_01 (p2, c1, k0).
+1766344244: New connection from 172.18.0.1:55842 on port 1883.
+1766344244: Client esp32_lab_01 already connected, closing old connection.
+1766344244: New client connected from 172.18.0.1:55842 as esp32_lab_01 (p2, c1, k0).
+1766344250: New connection from 172.18.0.1:55858 on port 1883.
+1766344250: Client esp32_lab_01 already connected, closing old connection.
+1766344250: New client connected from 172.18.0.1:55858 as esp32_lab_01 (p2, c1, k0).
+1766344255: New connection from 172.18.0.1:47008 on port 1883.
+1766344255: Client esp32_lab_01 already connected, closing old connection.
+1766344255: New client connected from 172.18.0.1:47008 as esp32_lab_01 (p2, c1, k0).
+1766344261: New connection from 172.18.0.1:47014 on port 1883.
+1766344261: Client esp32_lab_01 already connected, closing old connection.
+1766344261: New client connected from 172.18.0.1:47014 as esp32_lab_01 (p2, c1, k0).
+1766344266: New connection from 172.18.0.1:44302 on port 1883.
+1766344266: Client esp32_lab_01 already connected, closing old connection.
+1766344266: New client connected from 172.18.0.1:44302 as esp32_lab_01 (p2, c1, k0).
+1766344271: New connection from 172.18.0.1:60980 on port 1883.
+1766344271: Client esp32_lab_01 already connected, closing old connection.
+1766344271: New client connected from 172.18.0.1:60980 as esp32_lab_01 (p2, c1, k0).
+1766344277: New connection from 172.18.0.1:60990 on port 1883.
+1766344277: Client esp32_lab_01 already connected, closing old connection.
+1766344277: New client connected from 172.18.0.1:60990 as esp32_lab_01 (p2, c1, k0).
+1766344282: New connection from 172.18.0.1:55764 on port 1883.
+1766344282: Client esp32_lab_01 already connected, closing old connection.
+1766344282: New client connected from 172.18.0.1:55764 as esp32_lab_01 (p2, c1, k0).
+1766344287: New connection from 172.18.0.1:55766 on port 1883.
+1766344288: Client esp32_lab_01 already connected, closing old connection.
+1766344288: New client connected from 172.18.0.1:55766 as esp32_lab_01 (p2, c1, k0).
+1766344293: New connection from 172.18.0.1:45956 on port 1883.
+1766344293: Client esp32_lab_01 already connected, closing old connection.
+1766344293: New client connected from 172.18.0.1:45956 as esp32_lab_01 (p2, c1, k0).
+1766344298: New connection from 172.18.0.1:45964 on port 1883.
+1766344298: Client esp32_lab_01 already connected, closing old connection.
+1766344298: New client connected from 172.18.0.1:45964 as esp32_lab_01 (p2, c1, k0).
+1766344304: New connection from 172.18.0.1:37908 on port 1883.
+1766344304: Client esp32_lab_01 already connected, closing old connection.
+1766344304: New client connected from 172.18.0.1:37908 as esp32_lab_01 (p2, c1, k0).
+1766344309: New connection from 172.18.0.1:37922 on port 1883.
+1766344309: Client esp32_lab_01 already connected, closing old connection.
+1766344309: New client connected from 172.18.0.1:37922 as esp32_lab_01 (p2, c1, k0).
+1766344314: New connection from 172.18.0.1:34228 on port 1883.
+1766344314: Client esp32_lab_01 already connected, closing old connection.
+1766344314: New client connected from 172.18.0.1:34228 as esp32_lab_01 (p2, c1, k0).
+1766344320: New connection from 172.18.0.1:34240 on port 1883.
+1766344320: Client esp32_lab_01 already connected, closing old connection.
+1766344320: New client connected from 172.18.0.1:34240 as esp32_lab_01 (p2, c1, k0).
+1766344325: New connection from 172.18.0.1:40164 on port 1883.
+1766344325: Client esp32_lab_01 already connected, closing old connection.
+1766344325: New client connected from 172.18.0.1:40164 as esp32_lab_01 (p2, c1, k0).
+1766344331: New connection from 172.18.0.1:40172 on port 1883.
+1766344331: Client esp32_lab_01 already connected, closing old connection.
+1766344331: New client connected from 172.18.0.1:40172 as esp32_lab_01 (p2, c1, k0).
+1766344336: New connection from 172.18.0.1:56740 on port 1883.
+1766344336: Client esp32_lab_01 already connected, closing old connection.
+1766344336: New client connected from 172.18.0.1:56740 as esp32_lab_01 (p2, c1, k0).
+1766344341: New connection from 172.18.0.1:42702 on port 1883.
+1766344342: Client esp32_lab_01 already connected, closing old connection.
+1766344342: New client connected from 172.18.0.1:42702 as esp32_lab_01 (p2, c1, k0).
+1766344347: New connection from 172.18.0.1:42718 on port 1883.
+1766344347: Client esp32_lab_01 already connected, closing old connection.
+1766344347: New client connected from 172.18.0.1:42718 as esp32_lab_01 (p2, c1, k0).
+1766344352: New connection from 172.18.0.1:40878 on port 1883.
+1766344352: Client esp32_lab_01 already connected, closing old connection.
+1766344352: New client connected from 172.18.0.1:40878 as esp32_lab_01 (p2, c1, k0).
+1766344358: New connection from 172.18.0.1:40890 on port 1883.
+1766344358: Client esp32_lab_01 already connected, closing old connection.
+1766344358: New client connected from 172.18.0.1:40890 as esp32_lab_01 (p2, c1, k0).
+1766344363: New connection from 172.18.0.1:41306 on port 1883.
+1766344363: Client esp32_lab_01 already connected, closing old connection.
+1766344363: New client connected from 172.18.0.1:41306 as esp32_lab_01 (p2, c1, k0).
+1766344369: New connection from 172.18.0.1:41322 on port 1883.
+1766344369: Client esp32_lab_01 already connected, closing old connection.
+1766344369: New client connected from 172.18.0.1:41322 as esp32_lab_01 (p2, c1, k0).
+1766344374: New connection from 172.18.0.1:42644 on port 1883.
+1766344374: Client esp32_lab_01 already connected, closing old connection.
+1766344374: New client connected from 172.18.0.1:42644 as esp32_lab_01 (p2, c1, k0).
+1766344379: New connection from 172.18.0.1:42656 on port 1883.
+1766344379: Client esp32_lab_01 already connected, closing old connection.
+1766344379: New client connected from 172.18.0.1:42656 as esp32_lab_01 (p2, c1, k0).
+1766344385: New connection from 172.18.0.1:38270 on port 1883.
+1766344385: Client esp32_lab_01 already connected, closing old connection.
+1766344385: New client connected from 172.18.0.1:38270 as esp32_lab_01 (p2, c1, k0).
+1766344390: New connection from 172.18.0.1:38272 on port 1883.
+1766344390: Client esp32_lab_01 already connected, closing old connection.
+1766344390: New client connected from 172.18.0.1:38272 as esp32_lab_01 (p2, c1, k0).
+1766344396: New connection from 172.18.0.1:38616 on port 1883.
+1766344396: Client esp32_lab_01 already connected, closing old connection.
+1766344396: New client connected from 172.18.0.1:38616 as esp32_lab_01 (p2, c1, k0).
+1766344401: New connection from 172.18.0.1:38628 on port 1883.
+1766344401: Client esp32_lab_01 already connected, closing old connection.
+1766344401: New client connected from 172.18.0.1:38628 as esp32_lab_01 (p2, c1, k0).
+1766344405: mosquitto version 2.0.22 terminating
+1766344405: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1766344673: mosquitto version 2.0.22 starting
+1766344673: Config loaded from /mosquitto/config/mosquitto.conf.
+1766344673: Opening ipv4 listen socket on port 1883.
+1766344673: Opening ipv6 listen socket on port 1883.
+1766344673: mosquitto version 2.0.22 running
+1766344675: New connection from 172.18.0.1:40756 on port 1883.
+1766344675: New client connected from 172.18.0.1:40756 as esp32_lab_01 (p2, c1, k0).
+1766344680: New connection from 172.18.0.1:40758 on port 1883.
+1766344680: Client esp32_lab_01 already connected, closing old connection.
+1766344680: New client connected from 172.18.0.1:40758 as esp32_lab_01 (p2, c1, k0).
+1766344683: New connection from 172.18.0.4:52401 on port 1883.
+1766344683: New client connected from 172.18.0.4:52401 as auto-1D1F1227-76A0-FE29-0388-2CFA3C6C2C86 (p2, c1, k60).
+1766344685: New connection from 172.18.0.1:35736 on port 1883.
+1766344685: Client esp32_lab_01 already connected, closing old connection.
+1766344685: New client connected from 172.18.0.1:35736 as esp32_lab_01 (p2, c1, k0).
+1766344691: New connection from 172.18.0.1:35748 on port 1883.
+1766344691: Client esp32_lab_01 already connected, closing old connection.
+1766344691: New client connected from 172.18.0.1:35748 as esp32_lab_01 (p2, c1, k0).
+1766344696: New connection from 172.18.0.1:47064 on port 1883.
+1766344696: Client esp32_lab_01 already connected, closing old connection.
+1766344696: New client connected from 172.18.0.1:47064 as esp32_lab_01 (p2, c1, k0).
+1766344701: New connection from 172.18.0.1:47070 on port 1883.
+1766344702: Client esp32_lab_01 already connected, closing old connection.
+1766344702: New client connected from 172.18.0.1:47070 as esp32_lab_01 (p2, c1, k0).
+1766344707: New connection from 172.18.0.1:59998 on port 1883.
+1766344707: Client esp32_lab_01 already connected, closing old connection.
+1766344707: New client connected from 172.18.0.1:59998 as esp32_lab_01 (p2, c1, k0).
+1766344712: New connection from 172.18.0.1:51518 on port 1883.
+1766344712: Client esp32_lab_01 already connected, closing old connection.
+1766344712: New client connected from 172.18.0.1:51518 as esp32_lab_01 (p2, c1, k0).
+1766344718: New connection from 172.18.0.1:51530 on port 1883.
+1766344718: Client esp32_lab_01 already connected, closing old connection.
+1766344718: New client connected from 172.18.0.1:51530 as esp32_lab_01 (p2, c1, k0).
+1766344723: New connection from 172.18.0.1:60362 on port 1883.
+1766344723: Client esp32_lab_01 already connected, closing old connection.
+1766344723: New client connected from 172.18.0.1:60362 as esp32_lab_01 (p2, c1, k0).
+1766344729: New connection from 172.18.0.1:60370 on port 1883.
+1766344729: Client esp32_lab_01 already connected, closing old connection.
+1766344729: New client connected from 172.18.0.1:60370 as esp32_lab_01 (p2, c1, k0).
+1766344734: New connection from 172.18.0.1:46618 on port 1883.
+1766344734: Client esp32_lab_01 already connected, closing old connection.
+1766344734: New client connected from 172.18.0.1:46618 as esp32_lab_01 (p2, c1, k0).
+1766344739: New connection from 172.18.0.1:46620 on port 1883.
+1766344740: Client esp32_lab_01 already connected, closing old connection.
+1766344740: New client connected from 172.18.0.1:46620 as esp32_lab_01 (p2, c1, k0).
+1766344755: Client esp32_lab_01 closed its connection.
+1766344758: New connection from 172.18.0.1:46718 on port 1883.
+1766344758: New client connected from 172.18.0.1:46718 as esp32_lab_01 (p2, c1, k0).
+1766344763: New connection from 172.18.0.1:44552 on port 1883.
+1766344763: Client esp32_lab_01 already connected, closing old connection.
+1766344763: New client connected from 172.18.0.1:44552 as esp32_lab_01 (p2, c1, k0).
+1766344768: New connection from 172.18.0.1:44558 on port 1883.
+1766344768: Client esp32_lab_01 already connected, closing old connection.
+1766344768: New client connected from 172.18.0.1:44558 as esp32_lab_01 (p2, c1, k0).
+1766344774: New connection from 172.18.0.1:50400 on port 1883.
+1766344774: Client esp32_lab_01 already connected, closing old connection.
+1766344774: New client connected from 172.18.0.1:50400 as esp32_lab_01 (p2, c1, k0).
+1766344779: New connection from 172.18.0.1:50412 on port 1883.
+1766344779: Client esp32_lab_01 already connected, closing old connection.
+1766344779: New client connected from 172.18.0.1:50412 as esp32_lab_01 (p2, c1, k0).
+1766344784: New connection from 172.18.0.1:44242 on port 1883.
+1766344784: Client esp32_lab_01 already connected, closing old connection.
+1766344784: New client connected from 172.18.0.1:44242 as esp32_lab_01 (p2, c1, k0).
+1766344790: New connection from 172.18.0.1:44250 on port 1883.
+1766344790: Client esp32_lab_01 already connected, closing old connection.
+1766344790: New client connected from 172.18.0.1:44250 as esp32_lab_01 (p2, c1, k0).
+1766344795: New connection from 172.18.0.1:48744 on port 1883.
+1766344795: Client esp32_lab_01 already connected, closing old connection.
+1766344795: New client connected from 172.18.0.1:48744 as esp32_lab_01 (p2, c1, k0).
+1766344801: New connection from 172.18.0.1:48760 on port 1883.
+1766344801: Client esp32_lab_01 already connected, closing old connection.
+1766344801: New client connected from 172.18.0.1:48760 as esp32_lab_01 (p2, c1, k0).
+1766344806: New connection from 172.18.0.1:47364 on port 1883.
+1766344806: Client esp32_lab_01 already connected, closing old connection.
+1766344806: New client connected from 172.18.0.1:47364 as esp32_lab_01 (p2, c1, k0).
+1766344812: New connection from 172.18.0.1:47366 on port 1883.
+1766344812: Client esp32_lab_01 already connected, closing old connection.
+1766344812: New client connected from 172.18.0.1:47366 as esp32_lab_01 (p2, c1, k0).
+1766344817: New connection from 172.18.0.1:60172 on port 1883.
+1766344817: Client esp32_lab_01 already connected, closing old connection.
+1766344817: New client connected from 172.18.0.1:60172 as esp32_lab_01 (p2, c1, k0).
+1766344822: New connection from 172.18.0.1:49872 on port 1883.
+1766344822: Client esp32_lab_01 already connected, closing old connection.
+1766344822: New client connected from 172.18.0.1:49872 as esp32_lab_01 (p2, c1, k0).
+1766344828: New connection from 172.18.0.1:49882 on port 1883.
+1766344828: Client esp32_lab_01 already connected, closing old connection.
+1766344828: New client connected from 172.18.0.1:49882 as esp32_lab_01 (p2, c1, k0).
+1766344833: New connection from 172.18.0.1:33252 on port 1883.
+1766344833: Client esp32_lab_01 already connected, closing old connection.
+1766344833: New client connected from 172.18.0.1:33252 as esp32_lab_01 (p2, c1, k0).
+1766344839: New connection from 172.18.0.1:33264 on port 1883.
+1766344839: Client esp32_lab_01 already connected, closing old connection.
+1766344839: New client connected from 172.18.0.1:33264 as esp32_lab_01 (p2, c1, k0).
+1766344844: New connection from 172.18.0.1:36060 on port 1883.
+1766344844: Client esp32_lab_01 already connected, closing old connection.
+1766344844: New client connected from 172.18.0.1:36060 as esp32_lab_01 (p2, c1, k0).
+1766344849: New connection from 172.18.0.1:36066 on port 1883.
+1766344849: Client esp32_lab_01 already connected, closing old connection.
+1766344849: New client connected from 172.18.0.1:36066 as esp32_lab_01 (p2, c1, k0).
+1766344855: New connection from 172.18.0.1:35202 on port 1883.
+1766344855: Client esp32_lab_01 already connected, closing old connection.
+1766344855: New client connected from 172.18.0.1:35202 as esp32_lab_01 (p2, c1, k0).
+1766344860: New connection from 172.18.0.1:35210 on port 1883.
+1766344860: Client esp32_lab_01 already connected, closing old connection.
+1766344860: New client connected from 172.18.0.1:35210 as esp32_lab_01 (p2, c1, k0).
+1766344866: New connection from 172.18.0.1:33492 on port 1883.
+1766344866: Client esp32_lab_01 already connected, closing old connection.
+1766344866: New client connected from 172.18.0.1:33492 as esp32_lab_01 (p2, c1, k0).
+1766344870: Client auto-1D1F1227-76A0-FE29-0388-2CFA3C6C2C86 closed its connection.
+1766344871: New connection from 172.18.0.1:33504 on port 1883.
+1766344871: Client esp32_lab_01 already connected, closing old connection.
+1766344871: New client connected from 172.18.0.1:33504 as esp32_lab_01 (p2, c1, k0).
+1766344876: New connection from 172.18.0.1:55814 on port 1883.
+1766344876: Client esp32_lab_01 already connected, closing old connection.
+1766344876: New client connected from 172.18.0.1:55814 as esp32_lab_01 (p2, c1, k0).
+1766344881: New connection from 172.18.0.4:54519 on port 1883.
+1766344881: New client connected from 172.18.0.4:54519 as auto-1C4D30A3-3C0A-E7CB-5ED8-2BC5CBEA983D (p2, c1, k60).
+1766344882: New connection from 172.18.0.1:50706 on port 1883.
+1766344882: Client esp32_lab_01 already connected, closing old connection.
+1766344882: New client connected from 172.18.0.1:50706 as esp32_lab_01 (p2, c1, k0).
+1766344887: New connection from 172.18.0.1:50720 on port 1883.
+1766344887: Client esp32_lab_01 already connected, closing old connection.
+1766344887: New client connected from 172.18.0.1:50720 as esp32_lab_01 (p2, c1, k0).
+1766344893: New connection from 172.18.0.1:43878 on port 1883.
+1766344893: Client esp32_lab_01 already connected, closing old connection.
+1766344893: New client connected from 172.18.0.1:43878 as esp32_lab_01 (p2, c1, k0).
+1766344898: New connection from 172.18.0.1:43888 on port 1883.
+1766344898: Client esp32_lab_01 already connected, closing old connection.
+1766344898: New client connected from 172.18.0.1:43888 as esp32_lab_01 (p2, c1, k0).
+1766344903: New connection from 172.18.0.1:52222 on port 1883.
+1766344904: Client esp32_lab_01 already connected, closing old connection.
+1766344904: New client connected from 172.18.0.1:52222 as esp32_lab_01 (p2, c1, k0).
+1766344909: New connection from 172.18.0.1:52230 on port 1883.
+1766344909: Client esp32_lab_01 already connected, closing old connection.
+1766344909: New client connected from 172.18.0.1:52230 as esp32_lab_01 (p2, c1, k0).
+1766344914: New connection from 172.18.0.1:51986 on port 1883.
+1766344914: Client esp32_lab_01 already connected, closing old connection.
+1766344914: New client connected from 172.18.0.1:51986 as esp32_lab_01 (p2, c1, k0).
+1766344920: New connection from 172.18.0.1:51990 on port 1883.
+1766344920: Client esp32_lab_01 already connected, closing old connection.
+1766344920: New client connected from 172.18.0.1:51990 as esp32_lab_01 (p2, c1, k0).
+1766344925: New connection from 172.18.0.1:49314 on port 1883.
+1766344925: Client esp32_lab_01 already connected, closing old connection.
+1766344925: New client connected from 172.18.0.1:49314 as esp32_lab_01 (p2, c1, k0).
+1766344930: New connection from 172.18.0.1:49318 on port 1883.
+1766344931: Client esp32_lab_01 already connected, closing old connection.
+1766344931: New client connected from 172.18.0.1:49318 as esp32_lab_01 (p2, c1, k0).
+1766344936: New connection from 172.18.0.1:57284 on port 1883.
+1766344936: Client esp32_lab_01 already connected, closing old connection.
+1766344936: New client connected from 172.18.0.1:57284 as esp32_lab_01 (p2, c1, k0).
+1766344941: New connection from 172.18.0.1:57292 on port 1883.
+1766344941: Client esp32_lab_01 already connected, closing old connection.
+1766344941: New client connected from 172.18.0.1:57292 as esp32_lab_01 (p2, c1, k0).
+1766344947: New connection from 172.18.0.1:46872 on port 1883.
+1766344947: Client esp32_lab_01 already connected, closing old connection.
+1766344947: New client connected from 172.18.0.1:46872 as esp32_lab_01 (p2, c1, k0).
+1766344952: New connection from 172.18.0.1:46104 on port 1883.
+1766344952: Client esp32_lab_01 already connected, closing old connection.
+1766344952: New client connected from 172.18.0.1:46104 as esp32_lab_01 (p2, c1, k0).
+1766344958: New connection from 172.18.0.1:46106 on port 1883.
+1766344958: Client esp32_lab_01 already connected, closing old connection.
+1766344958: New client connected from 172.18.0.1:46106 as esp32_lab_01 (p2, c1, k0).
+1766344963: New connection from 172.18.0.1:33660 on port 1883.
+1766344963: Client esp32_lab_01 already connected, closing old connection.
+1766344963: New client connected from 172.18.0.1:33660 as esp32_lab_01 (p2, c1, k0).
+1766344968: New connection from 172.18.0.1:33668 on port 1883.
+1766344968: Client esp32_lab_01 already connected, closing old connection.
+1766344968: New client connected from 172.18.0.1:33668 as esp32_lab_01 (p2, c1, k0).
+1766344974: New connection from 172.18.0.1:45494 on port 1883.
+1766344974: Client esp32_lab_01 already connected, closing old connection.
+1766344974: New client connected from 172.18.0.1:45494 as esp32_lab_01 (p2, c1, k0).
+1766344979: New connection from 172.18.0.1:45502 on port 1883.
+1766344979: Client esp32_lab_01 already connected, closing old connection.
+1766344979: New client connected from 172.18.0.1:45502 as esp32_lab_01 (p2, c1, k0).
+1766344985: New connection from 172.18.0.1:44908 on port 1883.
+1766344985: Client esp32_lab_01 already connected, closing old connection.
+1766344985: New client connected from 172.18.0.1:44908 as esp32_lab_01 (p2, c1, k0).
+1766344990: New connection from 172.18.0.1:44910 on port 1883.
+1766344990: Client esp32_lab_01 already connected, closing old connection.
+1766344990: New client connected from 172.18.0.1:44910 as esp32_lab_01 (p2, c1, k0).
+1766344995: New connection from 172.18.0.1:40840 on port 1883.
+1766344995: Client esp32_lab_01 already connected, closing old connection.
+1766344995: New client connected from 172.18.0.1:40840 as esp32_lab_01 (p2, c1, k0).
+1766345001: New connection from 172.18.0.1:40846 on port 1883.
+1766345001: Client esp32_lab_01 already connected, closing old connection.
+1766345001: New client connected from 172.18.0.1:40846 as esp32_lab_01 (p2, c1, k0).
+1766345006: New connection from 172.18.0.1:42134 on port 1883.
+1766345006: Client esp32_lab_01 already connected, closing old connection.
+1766345006: New client connected from 172.18.0.1:42134 as esp32_lab_01 (p2, c1, k0).
+1766345011: New connection from 172.18.0.1:42142 on port 1883.
+1766345012: Client esp32_lab_01 already connected, closing old connection.
+1766345012: New client connected from 172.18.0.1:42142 as esp32_lab_01 (p2, c1, k0).
+1766345017: New connection from 172.18.0.1:55916 on port 1883.
+1766345017: Client esp32_lab_01 already connected, closing old connection.
+1766345017: New client connected from 172.18.0.1:55916 as esp32_lab_01 (p2, c1, k0).
+1766345022: New connection from 172.18.0.1:53756 on port 1883.
+1766345022: Client esp32_lab_01 already connected, closing old connection.
+1766345022: New client connected from 172.18.0.1:53756 as esp32_lab_01 (p2, c1, k0).
+1766345028: New connection from 172.18.0.1:53770 on port 1883.
+1766345028: Client esp32_lab_01 already connected, closing old connection.
+1766345028: New client connected from 172.18.0.1:53770 as esp32_lab_01 (p2, c1, k0).
+1766345033: New connection from 172.18.0.1:34226 on port 1883.
+1766345033: Client esp32_lab_01 already connected, closing old connection.
+1766345033: New client connected from 172.18.0.1:34226 as esp32_lab_01 (p2, c1, k0).
+1766345038: New connection from 172.18.0.1:34238 on port 1883.
+1766345039: Client esp32_lab_01 already connected, closing old connection.
+1766345039: New client connected from 172.18.0.1:34238 as esp32_lab_01 (p2, c1, k0).
+1766345044: New connection from 172.18.0.1:55412 on port 1883.
+1766345044: Client esp32_lab_01 already connected, closing old connection.
+1766345044: New client connected from 172.18.0.1:55412 as esp32_lab_01 (p2, c1, k0).
+1766345049: New connection from 172.18.0.1:55414 on port 1883.
+1766345049: Client esp32_lab_01 already connected, closing old connection.
+1766345049: New client connected from 172.18.0.1:55414 as esp32_lab_01 (p2, c1, k0).
+1766345055: New connection from 172.18.0.1:37962 on port 1883.
+1766345055: Client esp32_lab_01 already connected, closing old connection.
+1766345055: New client connected from 172.18.0.1:37962 as esp32_lab_01 (p2, c1, k0).
+1766345060: New connection from 172.18.0.1:37968 on port 1883.
+1766345060: Client esp32_lab_01 already connected, closing old connection.
+1766345060: New client connected from 172.18.0.1:37968 as esp32_lab_01 (p2, c1, k0).
+1766345065: New connection from 172.18.0.1:41868 on port 1883.
+1766345066: Client esp32_lab_01 already connected, closing old connection.
+1766345066: New client connected from 172.18.0.1:41868 as esp32_lab_01 (p2, c1, k0).
+1766345071: New connection from 172.18.0.1:41874 on port 1883.
+1766345071: Client esp32_lab_01 already connected, closing old connection.
+1766345071: New client connected from 172.18.0.1:41874 as esp32_lab_01 (p2, c1, k0).
+1766345076: New connection from 172.18.0.1:43236 on port 1883.
+1766345076: Client esp32_lab_01 already connected, closing old connection.
+1766345076: New client connected from 172.18.0.1:43236 as esp32_lab_01 (p2, c1, k0).
+1766345082: New connection from 172.18.0.1:43238 on port 1883.
+1766345082: Client esp32_lab_01 already connected, closing old connection.
+1766345082: New client connected from 172.18.0.1:43238 as esp32_lab_01 (p2, c1, k0).
+1766345087: New connection from 172.18.0.1:56354 on port 1883.
+1766345087: Client esp32_lab_01 already connected, closing old connection.
+1766345087: New client connected from 172.18.0.1:56354 as esp32_lab_01 (p2, c1, k0).
+1766345092: New connection from 172.18.0.1:55390 on port 1883.
+1766345092: Client esp32_lab_01 already connected, closing old connection.
+1766345092: New client connected from 172.18.0.1:55390 as esp32_lab_01 (p2, c1, k0).
+1766345098: New connection from 172.18.0.1:55394 on port 1883.
+1766345098: Client esp32_lab_01 already connected, closing old connection.
+1766345098: New client connected from 172.18.0.1:55394 as esp32_lab_01 (p2, c1, k0).
+1766345103: New connection from 172.18.0.1:43268 on port 1883.
+1766345103: Client esp32_lab_01 already connected, closing old connection.
+1766345103: New client connected from 172.18.0.1:43268 as esp32_lab_01 (p2, c1, k0).
+1766345109: New connection from 172.18.0.1:43274 on port 1883.
+1766345109: Client esp32_lab_01 already connected, closing old connection.
+1766345109: New client connected from 172.18.0.1:43274 as esp32_lab_01 (p2, c1, k0).
+1766345114: New connection from 172.18.0.1:45916 on port 1883.
+1766345114: Client esp32_lab_01 already connected, closing old connection.
+1766345114: New client connected from 172.18.0.1:45916 as esp32_lab_01 (p2, c1, k0).
+1766345119: New connection from 172.18.0.1:45920 on port 1883.
+1766345119: Client esp32_lab_01 already connected, closing old connection.
+1766345119: New client connected from 172.18.0.1:45920 as esp32_lab_01 (p2, c1, k0).
+1766345125: New connection from 172.18.0.1:54408 on port 1883.
+1766345125: Client esp32_lab_01 already connected, closing old connection.
+1766345125: New client connected from 172.18.0.1:54408 as esp32_lab_01 (p2, c1, k0).
+1766345129: Client auto-1C4D30A3-3C0A-E7CB-5ED8-2BC5CBEA983D closed its connection.
+1766345130: New connection from 172.18.0.1:54410 on port 1883.
+1766345130: Client esp32_lab_01 already connected, closing old connection.
+1766345130: New client connected from 172.18.0.1:54410 as esp32_lab_01 (p2, c1, k0).
+1766345135: New connection from 172.18.0.1:34816 on port 1883.
+1766345136: Client esp32_lab_01 already connected, closing old connection.
+1766345136: New client connected from 172.18.0.1:34816 as esp32_lab_01 (p2, c1, k0).
+1766345140: New connection from 172.18.0.4:46235 on port 1883.
+1766345140: New client connected from 172.18.0.4:46235 as auto-027C097E-05E3-CE88-8754-96B6D605372C (p2, c1, k60).
+1766345141: New connection from 172.18.0.1:34820 on port 1883.
+1766345141: Client esp32_lab_01 already connected, closing old connection.
+1766345141: New client connected from 172.18.0.1:34820 as esp32_lab_01 (p2, c1, k0).
+1766345146: New connection from 172.18.0.1:41852 on port 1883.
+1766345146: Client esp32_lab_01 already connected, closing old connection.
+1766345146: New client connected from 172.18.0.1:41852 as esp32_lab_01 (p2, c1, k0).
+1766345152: New connection from 172.18.0.1:41858 on port 1883.
+1766345152: Client esp32_lab_01 already connected, closing old connection.
+1766345152: New client connected from 172.18.0.1:41858 as esp32_lab_01 (p2, c1, k0).
+1766345157: New connection from 172.18.0.1:38562 on port 1883.
+1766345157: Client esp32_lab_01 already connected, closing old connection.
+1766345157: New client connected from 172.18.0.1:38562 as esp32_lab_01 (p2, c1, k0).
+1766345162: New connection from 172.18.0.1:37194 on port 1883.
+1766345162: Client esp32_lab_01 already connected, closing old connection.
+1766345162: New client connected from 172.18.0.1:37194 as esp32_lab_01 (p2, c1, k0).
+1766345168: New connection from 172.18.0.1:37196 on port 1883.
+1766345168: Client esp32_lab_01 already connected, closing old connection.
+1766345168: New client connected from 172.18.0.1:37196 as esp32_lab_01 (p2, c1, k0).
+1766345173: New connection from 172.18.0.1:42774 on port 1883.
+1766345173: Client esp32_lab_01 already connected, closing old connection.
+1766345173: New client connected from 172.18.0.1:42774 as esp32_lab_01 (p2, c1, k0).
+1766345178: New connection from 172.18.0.1:42786 on port 1883.
+1766345179: Client esp32_lab_01 already connected, closing old connection.
+1766345179: New client connected from 172.18.0.1:42786 as esp32_lab_01 (p2, c1, k0).
+1766345184: New connection from 172.18.0.1:49240 on port 1883.
+1766345184: Client esp32_lab_01 already connected, closing old connection.
+1766345184: New client connected from 172.18.0.1:49240 as esp32_lab_01 (p2, c1, k0).
+1766345189: New connection from 172.18.0.1:49244 on port 1883.
+1766345189: Client esp32_lab_01 already connected, closing old connection.
+1766345189: New client connected from 172.18.0.1:49244 as esp32_lab_01 (p2, c1, k0).
+1766345195: New connection from 172.18.0.1:57118 on port 1883.
+1766345195: Client esp32_lab_01 already connected, closing old connection.
+1766345195: New client connected from 172.18.0.1:57118 as esp32_lab_01 (p2, c1, k0).
+1766345200: New connection from 172.18.0.1:57120 on port 1883.
+1766345200: Client esp32_lab_01 already connected, closing old connection.
+1766345200: New client connected from 172.18.0.1:57120 as esp32_lab_01 (p2, c1, k0).
+1766345205: New connection from 172.18.0.1:37250 on port 1883.
+1766345205: Client esp32_lab_01 already connected, closing old connection.
+1766345205: New client connected from 172.18.0.1:37250 as esp32_lab_01 (p2, c1, k0).
+1766345211: New connection from 172.18.0.1:37258 on port 1883.
+1766345211: Client esp32_lab_01 already connected, closing old connection.
+1766345211: New client connected from 172.18.0.1:37258 as esp32_lab_01 (p2, c1, k0).
+1766345216: New connection from 172.18.0.1:59758 on port 1883.
+1766345216: Client esp32_lab_01 already connected, closing old connection.
+1766345216: New client connected from 172.18.0.1:59758 as esp32_lab_01 (p2, c1, k0).
+1766345222: New connection from 172.18.0.1:59760 on port 1883.
+1766345222: Client esp32_lab_01 already connected, closing old connection.
+1766345222: New client connected from 172.18.0.1:59760 as esp32_lab_01 (p2, c1, k0).
+1766345227: New connection from 172.18.0.1:54582 on port 1883.
+1766345227: Client esp32_lab_01 already connected, closing old connection.
+1766345227: New client connected from 172.18.0.1:54582 as esp32_lab_01 (p2, c1, k0).
+1766345232: New connection from 172.18.0.1:56890 on port 1883.
+1766345232: Client esp32_lab_01 already connected, closing old connection.
+1766345232: New client connected from 172.18.0.1:56890 as esp32_lab_01 (p2, c1, k0).
+1766345238: New connection from 172.18.0.1:56898 on port 1883.
+1766345238: Client esp32_lab_01 already connected, closing old connection.
+1766345238: New client connected from 172.18.0.1:56898 as esp32_lab_01 (p2, c1, k0).
+1766345243: New connection from 172.18.0.1:60532 on port 1883.
+1766345243: Client esp32_lab_01 already connected, closing old connection.
+1766345243: New client connected from 172.18.0.1:60532 as esp32_lab_01 (p2, c1, k0).
+1766345248: New connection from 172.18.0.1:60544 on port 1883.
+1766345249: Client esp32_lab_01 already connected, closing old connection.
+1766345249: New client connected from 172.18.0.1:60544 as esp32_lab_01 (p2, c1, k0).
+1766345254: New connection from 172.18.0.1:44716 on port 1883.
+1766345254: Client esp32_lab_01 already connected, closing old connection.
+1766345254: New client connected from 172.18.0.1:44716 as esp32_lab_01 (p2, c1, k0).
+1766345259: New connection from 172.18.0.1:44726 on port 1883.
+1766345259: Client esp32_lab_01 already connected, closing old connection.
+1766345259: New client connected from 172.18.0.1:44726 as esp32_lab_01 (p2, c1, k0).
+1766345265: New connection from 172.18.0.1:35168 on port 1883.
+1766345265: Client esp32_lab_01 already connected, closing old connection.
+1766345265: New client connected from 172.18.0.1:35168 as esp32_lab_01 (p2, c1, k0).
+1766345270: New connection from 172.18.0.1:35174 on port 1883.
+1766345270: Client esp32_lab_01 already connected, closing old connection.
+1766345270: New client connected from 172.18.0.1:35174 as esp32_lab_01 (p2, c1, k0).
+1766345276: New connection from 172.18.0.1:58092 on port 1883.
+1766345276: Client esp32_lab_01 already connected, closing old connection.
+1766345276: New client connected from 172.18.0.1:58092 as esp32_lab_01 (p2, c1, k0).
+1766345281: New connection from 172.18.0.1:58104 on port 1883.
+1766345281: Client esp32_lab_01 already connected, closing old connection.
+1766345281: New client connected from 172.18.0.1:58104 as esp32_lab_01 (p2, c1, k0).
+1766345286: New connection from 172.18.0.1:56836 on port 1883.
+1766345286: Client esp32_lab_01 already connected, closing old connection.
+1766345286: New client connected from 172.18.0.1:56836 as esp32_lab_01 (p2, c1, k0).
+1766345292: New connection from 172.18.0.1:56850 on port 1883.
+1766345292: Client esp32_lab_01 already connected, closing old connection.
+1766345292: New client connected from 172.18.0.1:56850 as esp32_lab_01 (p2, c1, k0).
+1766345297: New connection from 172.18.0.1:43600 on port 1883.
+1766345297: Client esp32_lab_01 already connected, closing old connection.
+1766345297: New client connected from 172.18.0.1:43600 as esp32_lab_01 (p2, c1, k0).
+1766345303: New connection from 172.18.0.1:52426 on port 1883.
+1766345303: Client esp32_lab_01 already connected, closing old connection.
+1766345303: New client connected from 172.18.0.1:52426 as esp32_lab_01 (p2, c1, k0).
+1766345308: New connection from 172.18.0.1:52430 on port 1883.
+1766345308: Client esp32_lab_01 already connected, closing old connection.
+1766345308: New client connected from 172.18.0.1:52430 as esp32_lab_01 (p2, c1, k0).
+1766345313: New connection from 172.18.0.1:33570 on port 1883.
+1766345313: Client esp32_lab_01 already connected, closing old connection.
+1766345313: New client connected from 172.18.0.1:33570 as esp32_lab_01 (p2, c1, k0).
+1766345319: New connection from 172.18.0.1:33584 on port 1883.
+1766345319: Client esp32_lab_01 already connected, closing old connection.
+1766345319: New client connected from 172.18.0.1:33584 as esp32_lab_01 (p2, c1, k0).
+1766345324: New connection from 172.18.0.1:43464 on port 1883.
+1766345324: Client esp32_lab_01 already connected, closing old connection.
+1766345324: New client connected from 172.18.0.1:43464 as esp32_lab_01 (p2, c1, k0).
+1766345330: New connection from 172.18.0.1:43476 on port 1883.
+1766345330: Client esp32_lab_01 already connected, closing old connection.
+1766345330: New client connected from 172.18.0.1:43476 as esp32_lab_01 (p2, c1, k0).
+1766345335: New connection from 172.18.0.1:40860 on port 1883.
+1766345335: Client esp32_lab_01 already connected, closing old connection.
+1766345335: New client connected from 172.18.0.1:40860 as esp32_lab_01 (p2, c1, k0).
+1766345340: New connection from 172.18.0.1:40872 on port 1883.
+1766345340: Client esp32_lab_01 already connected, closing old connection.
+1766345340: New client connected from 172.18.0.1:40872 as esp32_lab_01 (p2, c1, k0).
+1766345346: New connection from 172.18.0.1:51114 on port 1883.
+1766345346: Client esp32_lab_01 already connected, closing old connection.
+1766345346: New client connected from 172.18.0.1:51114 as esp32_lab_01 (p2, c1, k0).
+1766345351: New connection from 172.18.0.1:51122 on port 1883.
+1766345351: Client esp32_lab_01 already connected, closing old connection.
+1766345351: New client connected from 172.18.0.1:51122 as esp32_lab_01 (p2, c1, k0).
+1766345357: New connection from 172.18.0.1:40918 on port 1883.
+1766345357: Client esp32_lab_01 already connected, closing old connection.
+1766345357: New client connected from 172.18.0.1:40918 as esp32_lab_01 (p2, c1, k0).
+1766345362: New connection from 172.18.0.1:40924 on port 1883.
+1766345362: Client esp32_lab_01 already connected, closing old connection.
+1766345362: New client connected from 172.18.0.1:40924 as esp32_lab_01 (p2, c1, k0).
+1766345367: New connection from 172.18.0.1:46156 on port 1883.
+1766345367: Client esp32_lab_01 already connected, closing old connection.
+1766345367: New client connected from 172.18.0.1:46156 as esp32_lab_01 (p2, c1, k0).
+1766345373: New connection from 172.18.0.1:34392 on port 1883.
+1766345373: Client esp32_lab_01 already connected, closing old connection.
+1766345373: New client connected from 172.18.0.1:34392 as esp32_lab_01 (p2, c1, k0).
+1766345378: New connection from 172.18.0.1:34400 on port 1883.
+1766345378: Client esp32_lab_01 already connected, closing old connection.
+1766345378: New client connected from 172.18.0.1:34400 as esp32_lab_01 (p2, c1, k0).
+1766345383: New connection from 172.18.0.1:55958 on port 1883.
+1766345384: Client esp32_lab_01 already connected, closing old connection.
+1766345384: New client connected from 172.18.0.1:55958 as esp32_lab_01 (p2, c1, k0).
+1766345389: New connection from 172.18.0.1:55962 on port 1883.
+1766345389: Client esp32_lab_01 already connected, closing old connection.
+1766345389: New client connected from 172.18.0.1:55962 as esp32_lab_01 (p2, c1, k0).
+1766345394: New connection from 172.18.0.1:60104 on port 1883.
+1766345394: Client esp32_lab_01 already connected, closing old connection.
+1766345394: New client connected from 172.18.0.1:60104 as esp32_lab_01 (p2, c1, k0).
+1766345400: New connection from 172.18.0.1:60116 on port 1883.
+1766345400: Client esp32_lab_01 already connected, closing old connection.
+1766345400: New client connected from 172.18.0.1:60116 as esp32_lab_01 (p2, c1, k0).
+1766345405: New connection from 172.18.0.1:40854 on port 1883.
+1766345405: Client esp32_lab_01 already connected, closing old connection.
+1766345405: New client connected from 172.18.0.1:40854 as esp32_lab_01 (p2, c1, k0).
+1766345411: New connection from 172.18.0.1:40864 on port 1883.
+1766345411: Client esp32_lab_01 already connected, closing old connection.
+1766345411: New client connected from 172.18.0.1:40864 as esp32_lab_01 (p2, c1, k0).
+1766345416: New connection from 172.18.0.1:48672 on port 1883.
+1766345416: Client esp32_lab_01 already connected, closing old connection.
+1766345416: New client connected from 172.18.0.1:48672 as esp32_lab_01 (p2, c1, k0).
+1766345421: New connection from 172.18.0.1:48686 on port 1883.
+1766345421: Client esp32_lab_01 already connected, closing old connection.
+1766345421: New client connected from 172.18.0.1:48686 as esp32_lab_01 (p2, c1, k0).
+1766345427: New connection from 172.18.0.1:38920 on port 1883.
+1766345427: Client esp32_lab_01 already connected, closing old connection.
+1766345427: New client connected from 172.18.0.1:38920 as esp32_lab_01 (p2, c1, k0).
+1766345432: New connection from 172.18.0.1:38922 on port 1883.
+1766345432: Client esp32_lab_01 already connected, closing old connection.
+1766345432: New client connected from 172.18.0.1:38922 as esp32_lab_01 (p2, c1, k0).
+1766345438: New connection from 172.18.0.1:44454 on port 1883.
+1766345438: Client esp32_lab_01 already connected, closing old connection.
+1766345438: New client connected from 172.18.0.1:44454 as esp32_lab_01 (p2, c1, k0).
+1766345443: New connection from 172.18.0.1:59602 on port 1883.
+1766345443: Client esp32_lab_01 already connected, closing old connection.
+1766345443: New client connected from 172.18.0.1:59602 as esp32_lab_01 (p2, c1, k0).
+1766345448: New connection from 172.18.0.1:59608 on port 1883.
+1766345448: Client esp32_lab_01 already connected, closing old connection.
+1766345448: New client connected from 172.18.0.1:59608 as esp32_lab_01 (p2, c1, k0).
+1766345454: New connection from 172.18.0.1:52554 on port 1883.
+1766345454: Client esp32_lab_01 already connected, closing old connection.
+1766345454: New client connected from 172.18.0.1:52554 as esp32_lab_01 (p2, c1, k0).
+1766345459: New connection from 172.18.0.1:52558 on port 1883.
+1766345459: Client esp32_lab_01 already connected, closing old connection.
+1766345459: New client connected from 172.18.0.1:52558 as esp32_lab_01 (p2, c1, k0).
+1766345464: New connection from 172.18.0.1:43818 on port 1883.
+1766345465: Client esp32_lab_01 already connected, closing old connection.
+1766345465: New client connected from 172.18.0.1:43818 as esp32_lab_01 (p2, c1, k0).
+1766345470: New connection from 172.18.0.1:43820 on port 1883.
+1766345470: Client esp32_lab_01 already connected, closing old connection.
+1766345470: New client connected from 172.18.0.1:43820 as esp32_lab_01 (p2, c1, k0).
+1766345475: New connection from 172.18.0.1:44682 on port 1883.
+1766345475: Client esp32_lab_01 already connected, closing old connection.
+1766345475: New client connected from 172.18.0.1:44682 as esp32_lab_01 (p2, c1, k0).
+1766345481: New connection from 172.18.0.1:44692 on port 1883.
+1766345481: Client esp32_lab_01 already connected, closing old connection.
+1766345481: New client connected from 172.18.0.1:44692 as esp32_lab_01 (p2, c1, k0).
+1766345486: New connection from 172.18.0.1:53604 on port 1883.
+1766345486: Client esp32_lab_01 already connected, closing old connection.
+1766345486: New client connected from 172.18.0.1:53604 as esp32_lab_01 (p2, c1, k0).
+1766345491: New connection from 172.18.0.1:53620 on port 1883.
+1766345492: Client esp32_lab_01 already connected, closing old connection.
+1766345492: New client connected from 172.18.0.1:53620 as esp32_lab_01 (p2, c1, k0).
+1766345497: New connection from 172.18.0.1:42330 on port 1883.
+1766345497: Client esp32_lab_01 already connected, closing old connection.
+1766345497: New client connected from 172.18.0.1:42330 as esp32_lab_01 (p2, c1, k0).
+1766345502: New connection from 172.18.0.1:42334 on port 1883.
+1766345502: Client esp32_lab_01 already connected, closing old connection.
+1766345502: New client connected from 172.18.0.1:42334 as esp32_lab_01 (p2, c1, k0).
+1766345508: New connection from 172.18.0.1:44124 on port 1883.
+1766345508: Client esp32_lab_01 already connected, closing old connection.
+1766345508: New client connected from 172.18.0.1:44124 as esp32_lab_01 (p2, c1, k0).
+1766345513: New connection from 172.18.0.1:41682 on port 1883.
+1766345513: Client esp32_lab_01 already connected, closing old connection.
+1766345513: New client connected from 172.18.0.1:41682 as esp32_lab_01 (p2, c1, k0).
+1766345518: New connection from 172.18.0.1:41688 on port 1883.
+1766345518: Client esp32_lab_01 already connected, closing old connection.
+1766345518: New client connected from 172.18.0.1:41688 as esp32_lab_01 (p2, c1, k0).
+1766345524: New connection from 172.18.0.1:42264 on port 1883.
+1766345524: Client esp32_lab_01 already connected, closing old connection.
+1766345524: New client connected from 172.18.0.1:42264 as esp32_lab_01 (p2, c1, k0).
+1766345529: New connection from 172.18.0.1:42276 on port 1883.
+1766345529: Client esp32_lab_01 already connected, closing old connection.
+1766345529: New client connected from 172.18.0.1:42276 as esp32_lab_01 (p2, c1, k0).
+1766345534: New connection from 172.18.0.1:49694 on port 1883.
+1766345535: Client esp32_lab_01 already connected, closing old connection.
+1766345535: New client connected from 172.18.0.1:49694 as esp32_lab_01 (p2, c1, k0).
+1766345540: New connection from 172.18.0.1:49702 on port 1883.
+1766345540: Client esp32_lab_01 already connected, closing old connection.
+1766345540: New client connected from 172.18.0.1:49702 as esp32_lab_01 (p2, c1, k0).
+1766345545: New connection from 172.18.0.1:50444 on port 1883.
+1766345545: Client esp32_lab_01 already connected, closing old connection.
+1766345545: New client connected from 172.18.0.1:50444 as esp32_lab_01 (p2, c1, k0).
+1766345551: New connection from 172.18.0.1:50454 on port 1883.
+1766345551: Client esp32_lab_01 already connected, closing old connection.
+1766345551: New client connected from 172.18.0.1:50454 as esp32_lab_01 (p2, c1, k0).
+1766345556: New connection from 172.18.0.1:45164 on port 1883.
+1766345556: Client esp32_lab_01 already connected, closing old connection.
+1766345556: New client connected from 172.18.0.1:45164 as esp32_lab_01 (p2, c1, k0).
+1766345561: New connection from 172.18.0.1:45178 on port 1883.
+1766345562: Client esp32_lab_01 already connected, closing old connection.
+1766345562: New client connected from 172.18.0.1:45178 as esp32_lab_01 (p2, c1, k0).
+1766345567: New connection from 172.18.0.1:49650 on port 1883.
+1766345567: Client esp32_lab_01 already connected, closing old connection.
+1766345567: New client connected from 172.18.0.1:49650 as esp32_lab_01 (p2, c1, k0).
+1766345572: New connection from 172.18.0.1:49664 on port 1883.
+1766345572: Client esp32_lab_01 already connected, closing old connection.
+1766345572: New client connected from 172.18.0.1:49664 as esp32_lab_01 (p2, c1, k0).
+1766345578: New connection from 172.18.0.1:56476 on port 1883.
+1766345578: Client esp32_lab_01 already connected, closing old connection.
+1766345578: New client connected from 172.18.0.1:56476 as esp32_lab_01 (p2, c1, k0).
+1766345583: New connection from 172.18.0.1:42866 on port 1883.
+1766345583: Client esp32_lab_01 already connected, closing old connection.
+1766345583: New client connected from 172.18.0.1:42866 as esp32_lab_01 (p2, c1, k0).
+1766345589: New connection from 172.18.0.1:42868 on port 1883.
+1766345589: Client esp32_lab_01 already connected, closing old connection.
+1766345589: New client connected from 172.18.0.1:42868 as esp32_lab_01 (p2, c1, k0).
+1766345594: New connection from 172.18.0.1:51172 on port 1883.
+1766345594: Client esp32_lab_01 already connected, closing old connection.
+1766345594: New client connected from 172.18.0.1:51172 as esp32_lab_01 (p2, c1, k0).
+1766345599: New connection from 172.18.0.1:51180 on port 1883.
+1766345599: Client esp32_lab_01 already connected, closing old connection.
+1766345599: New client connected from 172.18.0.1:51180 as esp32_lab_01 (p2, c1, k0).
+1766345605: New connection from 172.18.0.1:50122 on port 1883.
+1766345605: Client esp32_lab_01 already connected, closing old connection.
+1766345605: New client connected from 172.18.0.1:50122 as esp32_lab_01 (p2, c1, k0).
+1766345610: New connection from 172.18.0.1:50130 on port 1883.
+1766345610: Client esp32_lab_01 already connected, closing old connection.
+1766345610: New client connected from 172.18.0.1:50130 as esp32_lab_01 (p2, c1, k0).
+1766345616: New connection from 172.18.0.1:34662 on port 1883.
+1766345616: Client esp32_lab_01 already connected, closing old connection.
+1766345616: New client connected from 172.18.0.1:34662 as esp32_lab_01 (p2, c1, k0).
+1766345621: New connection from 172.18.0.1:34668 on port 1883.
+1766345621: Client esp32_lab_01 already connected, closing old connection.
+1766345621: New client connected from 172.18.0.1:34668 as esp32_lab_01 (p2, c1, k0).
+1766345626: New connection from 172.18.0.1:59480 on port 1883.
+1766345626: Client esp32_lab_01 already connected, closing old connection.
+1766345626: New client connected from 172.18.0.1:59480 as esp32_lab_01 (p2, c1, k0).
+1766345632: New connection from 172.18.0.1:59488 on port 1883.
+1766345632: Client esp32_lab_01 already connected, closing old connection.
+1766345632: New client connected from 172.18.0.1:59488 as esp32_lab_01 (p2, c1, k0).
+1766345637: New connection from 172.18.0.1:50828 on port 1883.
+1766345637: Client esp32_lab_01 already connected, closing old connection.
+1766345637: New client connected from 172.18.0.1:50828 as esp32_lab_01 (p2, c1, k0).
+1766345642: New connection from 172.18.0.1:40946 on port 1883.
+1766345643: Client esp32_lab_01 already connected, closing old connection.
+1766345643: New client connected from 172.18.0.1:40946 as esp32_lab_01 (p2, c1, k0).
+1766345648: New connection from 172.18.0.1:40952 on port 1883.
+1766345648: Client esp32_lab_01 already connected, closing old connection.
+1766345648: New client connected from 172.18.0.1:40952 as esp32_lab_01 (p2, c1, k0).
+1766345653: New connection from 172.18.0.1:33240 on port 1883.
+1766345653: Client esp32_lab_01 already connected, closing old connection.
+1766345653: New client connected from 172.18.0.1:33240 as esp32_lab_01 (p2, c1, k0).
+1766345659: New connection from 172.18.0.1:33256 on port 1883.
+1766345659: Client esp32_lab_01 already connected, closing old connection.
+1766345659: New client connected from 172.18.0.1:33256 as esp32_lab_01 (p2, c1, k0).
+1766345664: New connection from 172.18.0.1:39372 on port 1883.
+1766345664: Client esp32_lab_01 already connected, closing old connection.
+1766345664: New client connected from 172.18.0.1:39372 as esp32_lab_01 (p2, c1, k0).
+1766345670: New connection from 172.18.0.1:39382 on port 1883.
+1766345670: Client esp32_lab_01 already connected, closing old connection.
+1766345670: New client connected from 172.18.0.1:39382 as esp32_lab_01 (p2, c1, k0).
+1766345675: New connection from 172.18.0.1:49722 on port 1883.
+1766345675: Client esp32_lab_01 already connected, closing old connection.
+1766345675: New client connected from 172.18.0.1:49722 as esp32_lab_01 (p2, c1, k0).
+1766345680: New connection from 172.18.0.1:49730 on port 1883.
+1766345680: Client esp32_lab_01 already connected, closing old connection.
+1766345680: New client connected from 172.18.0.1:49730 as esp32_lab_01 (p2, c1, k0).
+1766345686: New connection from 172.18.0.1:60218 on port 1883.
+1766345686: Client esp32_lab_01 already connected, closing old connection.
+1766345686: New client connected from 172.18.0.1:60218 as esp32_lab_01 (p2, c1, k0).
+1766345691: New connection from 172.18.0.1:60234 on port 1883.
+1766345691: Client esp32_lab_01 already connected, closing old connection.
+1766345691: New client connected from 172.18.0.1:60234 as esp32_lab_01 (p2, c1, k0).
+1766345697: New connection from 172.18.0.1:44596 on port 1883.
+1766345697: Client esp32_lab_01 already connected, closing old connection.
+1766345697: New client connected from 172.18.0.1:44596 as esp32_lab_01 (p2, c1, k0).
+1766345702: New connection from 172.18.0.1:44606 on port 1883.
+1766345702: Client esp32_lab_01 already connected, closing old connection.
+1766345702: New client connected from 172.18.0.1:44606 as esp32_lab_01 (p2, c1, k0).
+1766345707: New connection from 172.18.0.1:49604 on port 1883.
+1766345707: Client esp32_lab_01 already connected, closing old connection.
+1766345707: New client connected from 172.18.0.1:49604 as esp32_lab_01 (p2, c1, k0).
+1766345713: New connection from 172.18.0.1:50502 on port 1883.
+1766345713: Client esp32_lab_01 already connected, closing old connection.
+1766345713: New client connected from 172.18.0.1:50502 as esp32_lab_01 (p2, c1, k0).
+1766345718: New connection from 172.18.0.1:50516 on port 1883.
+1766345718: Client esp32_lab_01 already connected, closing old connection.
+1766345718: New client connected from 172.18.0.1:50516 as esp32_lab_01 (p2, c1, k0).
+1766345724: New connection from 172.18.0.1:58224 on port 1883.
+1766345724: Client esp32_lab_01 already connected, closing old connection.
+1766345724: New client connected from 172.18.0.1:58224 as esp32_lab_01 (p2, c1, k0).
+1766345729: New connection from 172.18.0.1:58230 on port 1883.
+1766345729: Client esp32_lab_01 already connected, closing old connection.
+1766345729: New client connected from 172.18.0.1:58230 as esp32_lab_01 (p2, c1, k0).
+1766345734: New connection from 172.18.0.1:60162 on port 1883.
+1766345734: Client esp32_lab_01 already connected, closing old connection.
+1766345734: New client connected from 172.18.0.1:60162 as esp32_lab_01 (p2, c1, k0).
+1766345740: New connection from 172.18.0.1:60166 on port 1883.
+1766345740: Client esp32_lab_01 already connected, closing old connection.
+1766345740: New client connected from 172.18.0.1:60166 as esp32_lab_01 (p2, c1, k0).
+1766345745: New connection from 172.18.0.1:45274 on port 1883.
+1766345745: Client esp32_lab_01 already connected, closing old connection.
+1766345745: New client connected from 172.18.0.1:45274 as esp32_lab_01 (p2, c1, k0).
+1766345750: New connection from 172.18.0.1:45290 on port 1883.
+1766345750: Client esp32_lab_01 already connected, closing old connection.
+1766345750: New client connected from 172.18.0.1:45290 as esp32_lab_01 (p2, c1, k0).
+1766345756: New connection from 172.18.0.1:48940 on port 1883.
+1766345756: Client esp32_lab_01 already connected, closing old connection.
+1766345756: New client connected from 172.18.0.1:48940 as esp32_lab_01 (p2, c1, k0).
+1766345761: New connection from 172.18.0.1:48950 on port 1883.
+1766345761: Client esp32_lab_01 already connected, closing old connection.
+1766345761: New client connected from 172.18.0.1:48950 as esp32_lab_01 (p2, c1, k0).
+1766345767: New connection from 172.18.0.1:43240 on port 1883.
+1766345767: Client esp32_lab_01 already connected, closing old connection.
+1766345767: New client connected from 172.18.0.1:43240 as esp32_lab_01 (p2, c1, k0).
+1766345772: New connection from 172.18.0.1:43246 on port 1883.
+1766345772: Client esp32_lab_01 already connected, closing old connection.
+1766345772: New client connected from 172.18.0.1:43246 as esp32_lab_01 (p2, c1, k0).
+1766345777: New connection from 172.18.0.1:42274 on port 1883.
+1766345778: Client esp32_lab_01 already connected, closing old connection.
+1766345778: New client connected from 172.18.0.1:42274 as esp32_lab_01 (p2, c1, k0).
+1766345783: New connection from 172.18.0.1:34786 on port 1883.
+1766345783: Client esp32_lab_01 already connected, closing old connection.
+1766345783: New client connected from 172.18.0.1:34786 as esp32_lab_01 (p2, c1, k0).
+1766345788: New connection from 172.18.0.1:34794 on port 1883.
+1766345788: Client esp32_lab_01 already connected, closing old connection.
+1766345788: New client connected from 172.18.0.1:34794 as esp32_lab_01 (p2, c1, k0).
+1766345794: New connection from 172.18.0.1:52388 on port 1883.
+1766345794: Client esp32_lab_01 already connected, closing old connection.
+1766345794: New client connected from 172.18.0.1:52388 as esp32_lab_01 (p2, c1, k0).
+1766345799: New connection from 172.18.0.1:52404 on port 1883.
+1766345799: Client esp32_lab_01 already connected, closing old connection.
+1766345799: New client connected from 172.18.0.1:52404 as esp32_lab_01 (p2, c1, k0).
+1766345805: New connection from 172.18.0.1:54252 on port 1883.
+1766345805: Client esp32_lab_01 already connected, closing old connection.
+1766345805: New client connected from 172.18.0.1:54252 as esp32_lab_01 (p2, c1, k0).
+1766345810: New connection from 172.18.0.1:54264 on port 1883.
+1766345810: Client esp32_lab_01 already connected, closing old connection.
+1766345810: New client connected from 172.18.0.1:54264 as esp32_lab_01 (p2, c1, k0).
+1766345815: New connection from 172.18.0.1:50830 on port 1883.
+1766345815: Client esp32_lab_01 already connected, closing old connection.
+1766345815: New client connected from 172.18.0.1:50830 as esp32_lab_01 (p2, c1, k0).
+1766345821: New connection from 172.18.0.1:50844 on port 1883.
+1766345821: Client esp32_lab_01 already connected, closing old connection.
+1766345821: New client connected from 172.18.0.1:50844 as esp32_lab_01 (p2, c1, k0).
+1766345826: New connection from 172.18.0.1:59862 on port 1883.
+1766345826: Client esp32_lab_01 already connected, closing old connection.
+1766345826: New client connected from 172.18.0.1:59862 as esp32_lab_01 (p2, c1, k0).
+1766345832: New connection from 172.18.0.1:59870 on port 1883.
+1766345832: Client esp32_lab_01 already connected, closing old connection.
+1766345832: New client connected from 172.18.0.1:59870 as esp32_lab_01 (p2, c1, k0).
+1766345837: New connection from 172.18.0.1:47968 on port 1883.
+1766345837: Client esp32_lab_01 already connected, closing old connection.
+1766345837: New client connected from 172.18.0.1:47968 as esp32_lab_01 (p2, c1, k0).
+1766345842: New connection from 172.18.0.1:47984 on port 1883.
+1766345842: Client esp32_lab_01 already connected, closing old connection.
+1766345842: New client connected from 172.18.0.1:47984 as esp32_lab_01 (p2, c1, k0).
+1766345848: New connection from 172.18.0.1:46696 on port 1883.
+1766345848: Client esp32_lab_01 already connected, closing old connection.
+1766345848: New client connected from 172.18.0.1:46696 as esp32_lab_01 (p2, c1, k0).
+1766345853: New connection from 172.18.0.1:51134 on port 1883.
+1766345853: Client esp32_lab_01 already connected, closing old connection.
+1766345853: New client connected from 172.18.0.1:51134 as esp32_lab_01 (p2, c1, k0).
+1766345859: New connection from 172.18.0.1:51140 on port 1883.
+1766345859: Client esp32_lab_01 already connected, closing old connection.
+1766345859: New client connected from 172.18.0.1:51140 as esp32_lab_01 (p2, c1, k0).
+1766345864: New connection from 172.18.0.1:46408 on port 1883.
+1766345864: Client esp32_lab_01 already connected, closing old connection.
+1766345864: New client connected from 172.18.0.1:46408 as esp32_lab_01 (p2, c1, k0).
+1766345869: New connection from 172.18.0.1:46418 on port 1883.
+1766345869: Client esp32_lab_01 already connected, closing old connection.
+1766345869: New client connected from 172.18.0.1:46418 as esp32_lab_01 (p2, c1, k0).
+1766345875: New connection from 172.18.0.1:42950 on port 1883.
+1766345875: Client esp32_lab_01 already connected, closing old connection.
+1766345875: New client connected from 172.18.0.1:42950 as esp32_lab_01 (p2, c1, k0).
+1766345880: New connection from 172.18.0.1:42960 on port 1883.
+1766345880: Client esp32_lab_01 already connected, closing old connection.
+1766345880: New client connected from 172.18.0.1:42960 as esp32_lab_01 (p2, c1, k0).
+1766345885: New connection from 172.18.0.1:47376 on port 1883.
+1766345886: Client esp32_lab_01 already connected, closing old connection.
+1766345886: New client connected from 172.18.0.1:47376 as esp32_lab_01 (p2, c1, k0).
+1766345891: New connection from 172.18.0.1:47388 on port 1883.
+1766345891: Client esp32_lab_01 already connected, closing old connection.
+1766345891: New client connected from 172.18.0.1:47388 as esp32_lab_01 (p2, c1, k0).
+1766345896: New connection from 172.18.0.1:54938 on port 1883.
+1766345896: Client esp32_lab_01 already connected, closing old connection.
+1766345896: New client connected from 172.18.0.1:54938 as esp32_lab_01 (p2, c1, k0).
+1766345902: New connection from 172.18.0.1:54946 on port 1883.
+1766345902: Client esp32_lab_01 already connected, closing old connection.
+1766345902: New client connected from 172.18.0.1:54946 as esp32_lab_01 (p2, c1, k0).
+1766345907: New connection from 172.18.0.1:38458 on port 1883.
+1766345907: Client esp32_lab_01 already connected, closing old connection.
+1766345907: New client connected from 172.18.0.1:38458 as esp32_lab_01 (p2, c1, k0).
+1766345912: New connection from 172.18.0.1:38466 on port 1883.
+1766345912: Client esp32_lab_01 already connected, closing old connection.
+1766345912: New client connected from 172.18.0.1:38466 as esp32_lab_01 (p2, c1, k0).
+1766345918: New connection from 172.18.0.1:45262 on port 1883.
+1766345918: Client esp32_lab_01 already connected, closing old connection.
+1766345918: New client connected from 172.18.0.1:45262 as esp32_lab_01 (p2, c1, k0).
+1766345923: New connection from 172.18.0.1:50388 on port 1883.
+1766345923: Client esp32_lab_01 already connected, closing old connection.
+1766345923: New client connected from 172.18.0.1:50388 as esp32_lab_01 (p2, c1, k0).
+1766345929: New connection from 172.18.0.1:50400 on port 1883.
+1766345929: Client esp32_lab_01 already connected, closing old connection.
+1766345929: New client connected from 172.18.0.1:50400 as esp32_lab_01 (p2, c1, k0).
+1766345934: New connection from 172.18.0.1:48506 on port 1883.
+1766345934: Client esp32_lab_01 already connected, closing old connection.
+1766345934: New client connected from 172.18.0.1:48506 as esp32_lab_01 (p2, c1, k0).
+1766345939: New connection from 172.18.0.1:48522 on port 1883.
+1766345939: Client esp32_lab_01 already connected, closing old connection.
+1766345939: New client connected from 172.18.0.1:48522 as esp32_lab_01 (p2, c1, k0).
+1766345945: New connection from 172.18.0.1:49298 on port 1883.
+1766345945: Client esp32_lab_01 already connected, closing old connection.
+1766345945: New client connected from 172.18.0.1:49298 as esp32_lab_01 (p2, c1, k0).
+1766345950: New connection from 172.18.0.1:49310 on port 1883.
+1766345950: Client esp32_lab_01 already connected, closing old connection.
+1766345950: New client connected from 172.18.0.1:49310 as esp32_lab_01 (p2, c1, k0).
+1766345955: New connection from 172.18.0.1:54498 on port 1883.
+1766345956: Client esp32_lab_01 already connected, closing old connection.
+1766345956: New client connected from 172.18.0.1:54498 as esp32_lab_01 (p2, c1, k0).
+1766345961: New connection from 172.18.0.1:54504 on port 1883.
+1766345961: Client esp32_lab_01 already connected, closing old connection.
+1766345961: New client connected from 172.18.0.1:54504 as esp32_lab_01 (p2, c1, k0).
+1766345966: New connection from 172.18.0.1:52504 on port 1883.
+1766345966: Client esp32_lab_01 already connected, closing old connection.
+1766345966: New client connected from 172.18.0.1:52504 as esp32_lab_01 (p2, c1, k0).
+1766345972: New connection from 172.18.0.1:52510 on port 1883.
+1766345972: Client esp32_lab_01 already connected, closing old connection.
+1766345972: New client connected from 172.18.0.1:52510 as esp32_lab_01 (p2, c1, k0).
+1766345977: New connection from 172.18.0.1:51908 on port 1883.
+1766345977: Client esp32_lab_01 already connected, closing old connection.
+1766345977: New client connected from 172.18.0.1:51908 as esp32_lab_01 (p2, c1, k0).
+1766345982: New connection from 172.18.0.1:51922 on port 1883.
+1766345982: Client esp32_lab_01 already connected, closing old connection.
+1766345982: New client connected from 172.18.0.1:51922 as esp32_lab_01 (p2, c1, k0).
+1766345988: New connection from 172.18.0.1:39050 on port 1883.
+1766345988: Client esp32_lab_01 already connected, closing old connection.
+1766345988: New client connected from 172.18.0.1:39050 as esp32_lab_01 (p2, c1, k0).
+1766345993: New connection from 172.18.0.1:39976 on port 1883.
+1766345993: Client esp32_lab_01 already connected, closing old connection.
+1766345993: New client connected from 172.18.0.1:39976 as esp32_lab_01 (p2, c1, k0).
+1766345999: New connection from 172.18.0.1:39980 on port 1883.
+1766345999: Client esp32_lab_01 already connected, closing old connection.
+1766345999: New client connected from 172.18.0.1:39980 as esp32_lab_01 (p2, c1, k0).
+1766346004: New connection from 172.18.0.1:40138 on port 1883.
+1766346004: Client esp32_lab_01 already connected, closing old connection.
+1766346004: New client connected from 172.18.0.1:40138 as esp32_lab_01 (p2, c1, k0).
+1766346009: New connection from 172.18.0.1:40154 on port 1883.
+1766346009: Client esp32_lab_01 already connected, closing old connection.
+1766346009: New client connected from 172.18.0.1:40154 as esp32_lab_01 (p2, c1, k0).
+1766346015: New connection from 172.18.0.1:35360 on port 1883.
+1766346015: Client esp32_lab_01 already connected, closing old connection.
+1766346015: New client connected from 172.18.0.1:35360 as esp32_lab_01 (p2, c1, k0).
+1766346020: New connection from 172.18.0.1:35376 on port 1883.
+1766346020: Client esp32_lab_01 already connected, closing old connection.
+1766346020: New client connected from 172.18.0.1:35376 as esp32_lab_01 (p2, c1, k0).
+1766346026: New connection from 172.18.0.1:51346 on port 1883.
+1766346026: Client esp32_lab_01 already connected, closing old connection.
+1766346026: New client connected from 172.18.0.1:51346 as esp32_lab_01 (p2, c1, k0).
+1766346031: New connection from 172.18.0.1:51350 on port 1883.
+1766346031: Client esp32_lab_01 already connected, closing old connection.
+1766346031: New client connected from 172.18.0.1:51350 as esp32_lab_01 (p2, c1, k0).
+1766346037: New connection from 172.18.0.1:57166 on port 1883.
+1766346037: Client esp32_lab_01 already connected, closing old connection.
+1766346037: New client connected from 172.18.0.1:57166 as esp32_lab_01 (p2, c1, k0).
+1766346042: New connection from 172.18.0.1:57170 on port 1883.
+1766346042: Client esp32_lab_01 already connected, closing old connection.
+1766346042: New client connected from 172.18.0.1:57170 as esp32_lab_01 (p2, c1, k0).
+1766346047: New connection from 172.18.0.1:33852 on port 1883.
+1766346047: Client esp32_lab_01 already connected, closing old connection.
+1766346047: New client connected from 172.18.0.1:33852 as esp32_lab_01 (p2, c1, k0).
+1766346053: New connection from 172.18.0.1:33866 on port 1883.
+1766346053: Client esp32_lab_01 already connected, closing old connection.
+1766346053: New client connected from 172.18.0.1:33866 as esp32_lab_01 (p2, c1, k0).
+1766346058: New connection from 172.18.0.1:51732 on port 1883.
+1766346058: Client esp32_lab_01 already connected, closing old connection.
+1766346058: New client connected from 172.18.0.1:51732 as esp32_lab_01 (p2, c1, k0).
+1766346064: New connection from 172.18.0.1:48712 on port 1883.
+1766346064: Client esp32_lab_01 already connected, closing old connection.
+1766346064: New client connected from 172.18.0.1:48712 as esp32_lab_01 (p2, c1, k0).
+1766346069: New connection from 172.18.0.1:48720 on port 1883.
+1766346069: Client esp32_lab_01 already connected, closing old connection.
+1766346069: New client connected from 172.18.0.1:48720 as esp32_lab_01 (p2, c1, k0).
+1766346074: New connection from 172.18.0.1:33024 on port 1883.
+1766346074: Client esp32_lab_01 already connected, closing old connection.
+1766346074: New client connected from 172.18.0.1:33024 as esp32_lab_01 (p2, c1, k0).
+1766346080: New connection from 172.18.0.1:33032 on port 1883.
+1766346080: Client esp32_lab_01 already connected, closing old connection.
+1766346080: New client connected from 172.18.0.1:33032 as esp32_lab_01 (p2, c1, k0).
+1766346085: New connection from 172.18.0.1:56336 on port 1883.
+1766346085: Client esp32_lab_01 already connected, closing old connection.
+1766346085: New client connected from 172.18.0.1:56336 as esp32_lab_01 (p2, c1, k0).
+1766346091: New connection from 172.18.0.1:56342 on port 1883.
+1766346091: Client esp32_lab_01 already connected, closing old connection.
+1766346091: New client connected from 172.18.0.1:56342 as esp32_lab_01 (p2, c1, k0).
+1766346096: New connection from 172.18.0.1:55662 on port 1883.
+1766346096: Client esp32_lab_01 already connected, closing old connection.
+1766346096: New client connected from 172.18.0.1:55662 as esp32_lab_01 (p2, c1, k0).
+1766346101: New connection from 172.18.0.1:55670 on port 1883.
+1766346101: Client esp32_lab_01 already connected, closing old connection.
+1766346101: New client connected from 172.18.0.1:55670 as esp32_lab_01 (p2, c1, k0).
+1766346107: New connection from 172.18.0.1:51536 on port 1883.
+1766346107: Client esp32_lab_01 already connected, closing old connection.
+1766346107: New client connected from 172.18.0.1:51536 as esp32_lab_01 (p2, c1, k0).
+1766346112: New connection from 172.18.0.1:51544 on port 1883.
+1766346112: Client esp32_lab_01 already connected, closing old connection.
+1766346112: New client connected from 172.18.0.1:51544 as esp32_lab_01 (p2, c1, k0).
+1766346118: New connection from 172.18.0.1:43586 on port 1883.
+1766346118: Client esp32_lab_01 already connected, closing old connection.
+1766346118: New client connected from 172.18.0.1:43586 as esp32_lab_01 (p2, c1, k0).
+1766346123: New connection from 172.18.0.1:44298 on port 1883.
+1766346123: Client esp32_lab_01 already connected, closing old connection.
+1766346123: New client connected from 172.18.0.1:44298 as esp32_lab_01 (p2, c1, k0).
+1766346128: New connection from 172.18.0.1:44314 on port 1883.
+1766346128: Client esp32_lab_01 already connected, closing old connection.
+1766346128: New client connected from 172.18.0.1:44314 as esp32_lab_01 (p2, c1, k0).
+1766346134: New connection from 172.18.0.1:39288 on port 1883.
+1766346134: Client esp32_lab_01 already connected, closing old connection.
+1766346134: New client connected from 172.18.0.1:39288 as esp32_lab_01 (p2, c1, k0).
+1766346139: New connection from 172.18.0.1:39304 on port 1883.
+1766346139: Client esp32_lab_01 already connected, closing old connection.
+1766346139: New client connected from 172.18.0.1:39304 as esp32_lab_01 (p2, c1, k0).
+1766346145: New connection from 172.18.0.1:47458 on port 1883.
+1766346145: Client esp32_lab_01 already connected, closing old connection.
+1766346145: New client connected from 172.18.0.1:47458 as esp32_lab_01 (p2, c1, k0).
+1766346150: New connection from 172.18.0.1:47468 on port 1883.
+1766346150: Client esp32_lab_01 already connected, closing old connection.
+1766346150: New client connected from 172.18.0.1:47468 as esp32_lab_01 (p2, c1, k0).
+1766346155: New connection from 172.18.0.1:36198 on port 1883.
+1766346155: Client esp32_lab_01 already connected, closing old connection.
+1766346155: New client connected from 172.18.0.1:36198 as esp32_lab_01 (p2, c1, k0).
+1766346161: New connection from 172.18.0.1:36214 on port 1883.
+1766346161: Client esp32_lab_01 already connected, closing old connection.
+1766346161: New client connected from 172.18.0.1:36214 as esp32_lab_01 (p2, c1, k0).
+1766346166: New connection from 172.18.0.1:52234 on port 1883.
+1766346166: Client esp32_lab_01 already connected, closing old connection.
+1766346166: New client connected from 172.18.0.1:52234 as esp32_lab_01 (p2, c1, k0).
+1766346172: New connection from 172.18.0.1:52242 on port 1883.
+1766346172: Client esp32_lab_01 already connected, closing old connection.
+1766346172: New client connected from 172.18.0.1:52242 as esp32_lab_01 (p2, c1, k0).
+1766346177: New connection from 172.18.0.1:51406 on port 1883.
+1766346177: Client esp32_lab_01 already connected, closing old connection.
+1766346177: New client connected from 172.18.0.1:51406 as esp32_lab_01 (p2, c1, k0).
+1766346182: New connection from 172.18.0.1:51418 on port 1883.
+1766346182: Client esp32_lab_01 already connected, closing old connection.
+1766346182: New client connected from 172.18.0.1:51418 as esp32_lab_01 (p2, c1, k0).
+1766346188: New connection from 172.18.0.1:53154 on port 1883.
+1766346188: Client esp32_lab_01 already connected, closing old connection.
+1766346188: New client connected from 172.18.0.1:53154 as esp32_lab_01 (p2, c1, k0).
+1766346193: New connection from 172.18.0.1:32872 on port 1883.
+1766346193: Client esp32_lab_01 already connected, closing old connection.
+1766346193: New client connected from 172.18.0.1:32872 as esp32_lab_01 (p2, c1, k0).
+1766346198: New connection from 172.18.0.1:32878 on port 1883.
+1766346198: Client esp32_lab_01 already connected, closing old connection.
+1766346198: New client connected from 172.18.0.1:32878 as esp32_lab_01 (p2, c1, k0).
+1766346204: New connection from 172.18.0.1:35104 on port 1883.
+1766346204: Client esp32_lab_01 already connected, closing old connection.
+1766346204: New client connected from 172.18.0.1:35104 as esp32_lab_01 (p2, c1, k0).
+1766346209: New connection from 172.18.0.1:35112 on port 1883.
+1766346209: Client esp32_lab_01 already connected, closing old connection.
+1766346209: New client connected from 172.18.0.1:35112 as esp32_lab_01 (p2, c1, k0).
+1766346215: New connection from 172.18.0.1:42320 on port 1883.
+1766346215: Client esp32_lab_01 already connected, closing old connection.
+1766346215: New client connected from 172.18.0.1:42320 as esp32_lab_01 (p2, c1, k0).
+1766346220: New connection from 172.18.0.1:42324 on port 1883.
+1766346220: Client esp32_lab_01 already connected, closing old connection.
+1766346220: New client connected from 172.18.0.1:42324 as esp32_lab_01 (p2, c1, k0).
+1766346225: New connection from 172.18.0.1:45798 on port 1883.
+1766346226: Client esp32_lab_01 already connected, closing old connection.
+1766346226: New client connected from 172.18.0.1:45798 as esp32_lab_01 (p2, c1, k0).
+1766346231: New connection from 172.18.0.1:45804 on port 1883.
+1766346231: Client esp32_lab_01 already connected, closing old connection.
+1766346231: New client connected from 172.18.0.1:45804 as esp32_lab_01 (p2, c1, k0).
+1766346236: New connection from 172.18.0.1:42150 on port 1883.
+1766346236: Client esp32_lab_01 already connected, closing old connection.
+1766346236: New client connected from 172.18.0.1:42150 as esp32_lab_01 (p2, c1, k0).
+1766346242: New connection from 172.18.0.1:42166 on port 1883.
+1766346242: Client esp32_lab_01 already connected, closing old connection.
+1766346242: New client connected from 172.18.0.1:42166 as esp32_lab_01 (p2, c1, k0).
+1766346247: New connection from 172.18.0.1:42362 on port 1883.
+1766346247: Client esp32_lab_01 already connected, closing old connection.
+1766346247: New client connected from 172.18.0.1:42362 as esp32_lab_01 (p2, c1, k0).
+1766346253: New connection from 172.18.0.1:42378 on port 1883.
+1766346253: Client esp32_lab_01 already connected, closing old connection.
+1766346253: New client connected from 172.18.0.1:42378 as esp32_lab_01 (p2, c1, k0).
+1766346258: New connection from 172.18.0.1:42354 on port 1883.
+1766346258: Client esp32_lab_01 already connected, closing old connection.
+1766346258: New client connected from 172.18.0.1:42354 as esp32_lab_01 (p2, c1, k0).
+1766346263: New connection from 172.18.0.1:52302 on port 1883.
+1766346263: Client esp32_lab_01 already connected, closing old connection.
+1766346263: New client connected from 172.18.0.1:52302 as esp32_lab_01 (p2, c1, k0).
+1766346269: New connection from 172.18.0.1:52306 on port 1883.
+1766346269: Client esp32_lab_01 already connected, closing old connection.
+1766346269: New client connected from 172.18.0.1:52306 as esp32_lab_01 (p2, c1, k0).
+1766346274: New connection from 172.18.0.1:36762 on port 1883.
+1766346274: Client esp32_lab_01 already connected, closing old connection.
+1766346274: New client connected from 172.18.0.1:36762 as esp32_lab_01 (p2, c1, k0).
+1766346280: New connection from 172.18.0.1:36766 on port 1883.
+1766346280: Client esp32_lab_01 already connected, closing old connection.
+1766346280: New client connected from 172.18.0.1:36766 as esp32_lab_01 (p2, c1, k0).
+1766346285: New connection from 172.18.0.1:39872 on port 1883.
+1766346285: Client esp32_lab_01 already connected, closing old connection.
+1766346285: New client connected from 172.18.0.1:39872 as esp32_lab_01 (p2, c1, k0).
+1766346290: New connection from 172.18.0.1:39882 on port 1883.
+1766346290: Client esp32_lab_01 already connected, closing old connection.
+1766346290: New client connected from 172.18.0.1:39882 as esp32_lab_01 (p2, c1, k0).
+1766346296: New connection from 172.18.0.1:49310 on port 1883.
+1766346296: Client esp32_lab_01 already connected, closing old connection.
+1766346296: New client connected from 172.18.0.1:49310 as esp32_lab_01 (p2, c1, k0).
+1766346301: New connection from 172.18.0.1:49316 on port 1883.
+1766346301: Client esp32_lab_01 already connected, closing old connection.
+1766346301: New client connected from 172.18.0.1:49316 as esp32_lab_01 (p2, c1, k0).
+1766346306: New connection from 172.18.0.1:47016 on port 1883.
+1766346306: Client esp32_lab_01 already connected, closing old connection.
+1766346306: New client connected from 172.18.0.1:47016 as esp32_lab_01 (p2, c1, k0).
+1766346312: New connection from 172.18.0.1:47024 on port 1883.
+1766346312: Client esp32_lab_01 already connected, closing old connection.
+1766346312: New client connected from 172.18.0.1:47024 as esp32_lab_01 (p2, c1, k0).
+1766346317: New connection from 172.18.0.1:52660 on port 1883.
+1766346317: Client esp32_lab_01 already connected, closing old connection.
+1766346317: New client connected from 172.18.0.1:52660 as esp32_lab_01 (p2, c1, k0).
+1766346323: New connection from 172.18.0.1:52668 on port 1883.
+1766346323: Client esp32_lab_01 already connected, closing old connection.
+1766346323: New client connected from 172.18.0.1:52668 as esp32_lab_01 (p2, c1, k0).
+1766346328: New connection from 172.18.0.1:35368 on port 1883.
+1766346328: Client esp32_lab_01 already connected, closing old connection.
+1766346328: New client connected from 172.18.0.1:35368 as esp32_lab_01 (p2, c1, k0).
+1766346333: New connection from 172.18.0.1:39794 on port 1883.
+1766346333: Client esp32_lab_01 already connected, closing old connection.
+1766346333: New client connected from 172.18.0.1:39794 as esp32_lab_01 (p2, c1, k0).
+1766346339: New connection from 172.18.0.1:39806 on port 1883.
+1766346339: Client esp32_lab_01 already connected, closing old connection.
+1766346339: New client connected from 172.18.0.1:39806 as esp32_lab_01 (p2, c1, k0).
+1766346344: New connection from 172.18.0.1:58126 on port 1883.
+1766346344: Client esp32_lab_01 already connected, closing old connection.
+1766346344: New client connected from 172.18.0.1:58126 as esp32_lab_01 (p2, c1, k0).
+1766346350: New connection from 172.18.0.1:58130 on port 1883.
+1766346350: Client esp32_lab_01 already connected, closing old connection.
+1766346350: New client connected from 172.18.0.1:58130 as esp32_lab_01 (p2, c1, k0).
+1766346355: New connection from 172.18.0.1:38144 on port 1883.
+1766346355: Client esp32_lab_01 already connected, closing old connection.
+1766346355: New client connected from 172.18.0.1:38144 as esp32_lab_01 (p2, c1, k0).
+1766346360: New connection from 172.18.0.1:38156 on port 1883.
+1766346360: Client esp32_lab_01 already connected, closing old connection.
+1766346360: New client connected from 172.18.0.1:38156 as esp32_lab_01 (p2, c1, k0).
+1766346366: New connection from 172.18.0.1:42198 on port 1883.
+1766346366: Client esp32_lab_01 already connected, closing old connection.
+1766346366: New client connected from 172.18.0.1:42198 as esp32_lab_01 (p2, c1, k0).
+1766346371: New connection from 172.18.0.1:42204 on port 1883.
+1766346371: Client esp32_lab_01 already connected, closing old connection.
+1766346371: New client connected from 172.18.0.1:42204 as esp32_lab_01 (p2, c1, k0).
+1766346377: New connection from 172.18.0.1:43980 on port 1883.
+1766346377: Client esp32_lab_01 already connected, closing old connection.
+1766346377: New client connected from 172.18.0.1:43980 as esp32_lab_01 (p2, c1, k0).
+1766346382: New connection from 172.18.0.1:43990 on port 1883.
+1766346382: Client esp32_lab_01 already connected, closing old connection.
+1766346382: New client connected from 172.18.0.1:43990 as esp32_lab_01 (p2, c1, k0).
+1766346387: New connection from 172.18.0.1:51660 on port 1883.
+1766346387: Client esp32_lab_01 already connected, closing old connection.
+1766346387: New client connected from 172.18.0.1:51660 as esp32_lab_01 (p2, c1, k0).
+1766346393: New connection from 172.18.0.1:51662 on port 1883.
+1766346393: Client esp32_lab_01 already connected, closing old connection.
+1766346393: New client connected from 172.18.0.1:51662 as esp32_lab_01 (p2, c1, k0).
+1766346398: New connection from 172.18.0.1:49620 on port 1883.
+1766346398: Client esp32_lab_01 already connected, closing old connection.
+1766346398: New client connected from 172.18.0.1:49620 as esp32_lab_01 (p2, c1, k0).
+1766346403: New connection from 172.18.0.1:45714 on port 1883.
+1766346403: Client esp32_lab_01 already connected, closing old connection.
+1766346403: New client connected from 172.18.0.1:45714 as esp32_lab_01 (p2, c1, k0).
+1766346409: New connection from 172.18.0.1:45726 on port 1883.
+1766346409: Client esp32_lab_01 already connected, closing old connection.
+1766346409: New client connected from 172.18.0.1:45726 as esp32_lab_01 (p2, c1, k0).
+1766346414: New connection from 172.18.0.1:41238 on port 1883.
+1766346414: Client esp32_lab_01 already connected, closing old connection.
+1766346414: New client connected from 172.18.0.1:41238 as esp32_lab_01 (p2, c1, k0).
+1766346420: New connection from 172.18.0.1:41252 on port 1883.
+1766346420: Client esp32_lab_01 already connected, closing old connection.
+1766346420: New client connected from 172.18.0.1:41252 as esp32_lab_01 (p2, c1, k0).
+1766346425: New connection from 172.18.0.1:37172 on port 1883.
+1766346425: Client esp32_lab_01 already connected, closing old connection.
+1766346425: New client connected from 172.18.0.1:37172 as esp32_lab_01 (p2, c1, k0).
+1766346430: New connection from 172.18.0.1:37180 on port 1883.
+1766346430: Client esp32_lab_01 already connected, closing old connection.
+1766346430: New client connected from 172.18.0.1:37180 as esp32_lab_01 (p2, c1, k0).
+1766346436: New connection from 172.18.0.1:36622 on port 1883.
+1766346436: Client esp32_lab_01 already connected, closing old connection.
+1766346436: New client connected from 172.18.0.1:36622 as esp32_lab_01 (p2, c1, k0).
+1766346441: New connection from 172.18.0.1:36630 on port 1883.
+1766346441: Client esp32_lab_01 already connected, closing old connection.
+1766346441: New client connected from 172.18.0.1:36630 as esp32_lab_01 (p2, c1, k0).
+1766346446: New connection from 172.18.0.1:51594 on port 1883.
+1766346447: Client esp32_lab_01 already connected, closing old connection.
+1766346447: New client connected from 172.18.0.1:51594 as esp32_lab_01 (p2, c1, k0).
+1766346452: New connection from 172.18.0.1:51608 on port 1883.
+1766346452: Client esp32_lab_01 already connected, closing old connection.
+1766346452: New client connected from 172.18.0.1:51608 as esp32_lab_01 (p2, c1, k0).
+1766346457: New connection from 172.18.0.1:34316 on port 1883.
+1766346457: Client esp32_lab_01 already connected, closing old connection.
+1766346457: New client connected from 172.18.0.1:34316 as esp32_lab_01 (p2, c1, k0).
+1766346463: New connection from 172.18.0.1:34318 on port 1883.
+1766346463: Client esp32_lab_01 already connected, closing old connection.
+1766346463: New client connected from 172.18.0.1:34318 as esp32_lab_01 (p2, c1, k0).
+1766346468: New connection from 172.18.0.1:49738 on port 1883.
+1766346468: Client esp32_lab_01 already connected, closing old connection.
+1766346468: New client connected from 172.18.0.1:49738 as esp32_lab_01 (p2, c1, k0).
+1766346473: New connection from 172.18.0.1:38680 on port 1883.
+1766346474: Client esp32_lab_01 already connected, closing old connection.
+1766346474: New client connected from 172.18.0.1:38680 as esp32_lab_01 (p2, c1, k0).
+1766346475: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1766346479: New connection from 172.18.0.1:38688 on port 1883.
+1766346479: Client esp32_lab_01 already connected, closing old connection.
+1766346479: New client connected from 172.18.0.1:38688 as esp32_lab_01 (p2, c1, k0).
+1766346484: New connection from 172.18.0.1:42710 on port 1883.
+1766346484: Client esp32_lab_01 already connected, closing old connection.
+1766346484: New client connected from 172.18.0.1:42710 as esp32_lab_01 (p2, c1, k0).
+1766346490: New connection from 172.18.0.1:42724 on port 1883.
+1766346490: Client esp32_lab_01 already connected, closing old connection.
+1766346490: New client connected from 172.18.0.1:42724 as esp32_lab_01 (p2, c1, k0).
+1766346495: New connection from 172.18.0.1:49408 on port 1883.
+1766346495: Client esp32_lab_01 already connected, closing old connection.
+1766346495: New client connected from 172.18.0.1:49408 as esp32_lab_01 (p2, c1, k0).
+1766346500: New connection from 172.18.0.1:49414 on port 1883.
+1766346501: Client esp32_lab_01 already connected, closing old connection.
+1766346501: New client connected from 172.18.0.1:49414 as esp32_lab_01 (p2, c1, k0).
+1766346506: New connection from 172.18.0.1:35368 on port 1883.
+1766346506: Client esp32_lab_01 already connected, closing old connection.
+1766346506: New client connected from 172.18.0.1:35368 as esp32_lab_01 (p2, c1, k0).
+1766346511: New connection from 172.18.0.1:35380 on port 1883.
+1766346511: Client esp32_lab_01 already connected, closing old connection.
+1766346511: New client connected from 172.18.0.1:35380 as esp32_lab_01 (p2, c1, k0).
+1766346517: New connection from 172.18.0.1:33710 on port 1883.
+1766346517: Client esp32_lab_01 already connected, closing old connection.
+1766346517: New client connected from 172.18.0.1:33710 as esp32_lab_01 (p2, c1, k0).
+1766346522: New connection from 172.18.0.1:33724 on port 1883.
+1766346522: Client esp32_lab_01 already connected, closing old connection.
+1766346522: New client connected from 172.18.0.1:33724 as esp32_lab_01 (p2, c1, k0).
+1766346528: New connection from 172.18.0.1:35686 on port 1883.
+1766346528: Client esp32_lab_01 already connected, closing old connection.
+1766346528: New client connected from 172.18.0.1:35686 as esp32_lab_01 (p2, c1, k0).
+1766346533: New connection from 172.18.0.1:35690 on port 1883.
+1766346533: Client esp32_lab_01 already connected, closing old connection.
+1766346533: New client connected from 172.18.0.1:35690 as esp32_lab_01 (p2, c1, k0).
+1766346538: New connection from 172.18.0.1:41818 on port 1883.
+1766346538: Client esp32_lab_01 already connected, closing old connection.
+1766346538: New client connected from 172.18.0.1:41818 as esp32_lab_01 (p2, c1, k0).
+1766346544: New connection from 172.18.0.1:58440 on port 1883.
+1766346544: Client esp32_lab_01 already connected, closing old connection.
+1766346544: New client connected from 172.18.0.1:58440 as esp32_lab_01 (p2, c1, k0).
+1766346549: New connection from 172.18.0.1:58454 on port 1883.
+1766346549: Client esp32_lab_01 already connected, closing old connection.
+1766346549: New client connected from 172.18.0.1:58454 as esp32_lab_01 (p2, c1, k0).
+1766346555: New connection from 172.18.0.1:51124 on port 1883.
+1766346555: Client esp32_lab_01 already connected, closing old connection.
+1766346555: New client connected from 172.18.0.1:51124 as esp32_lab_01 (p2, c1, k0).
+1766346560: New connection from 172.18.0.1:51128 on port 1883.
+1766346560: Client esp32_lab_01 already connected, closing old connection.
+1766346560: New client connected from 172.18.0.1:51128 as esp32_lab_01 (p2, c1, k0).
+1766346565: New connection from 172.18.0.1:35968 on port 1883.
+1766346565: Client esp32_lab_01 already connected, closing old connection.
+1766346565: New client connected from 172.18.0.1:35968 as esp32_lab_01 (p2, c1, k0).
+1766346571: New connection from 172.18.0.1:35982 on port 1883.
+1766346571: Client esp32_lab_01 already connected, closing old connection.
+1766346571: New client connected from 172.18.0.1:35982 as esp32_lab_01 (p2, c1, k0).
+1766346576: New connection from 172.18.0.1:42908 on port 1883.
+1766346576: Client esp32_lab_01 already connected, closing old connection.
+1766346576: New client connected from 172.18.0.1:42908 as esp32_lab_01 (p2, c1, k0).
+1766346582: New connection from 172.18.0.1:42918 on port 1883.
+1766346582: Client esp32_lab_01 already connected, closing old connection.
+1766346582: New client connected from 172.18.0.1:42918 as esp32_lab_01 (p2, c1, k0).
+1766346587: New connection from 172.18.0.1:53854 on port 1883.
+1766346587: Client esp32_lab_01 already connected, closing old connection.
+1766346587: New client connected from 172.18.0.1:53854 as esp32_lab_01 (p2, c1, k0).
+1766346592: New connection from 172.18.0.1:53862 on port 1883.
+1766346592: Client esp32_lab_01 already connected, closing old connection.
+1766346592: New client connected from 172.18.0.1:53862 as esp32_lab_01 (p2, c1, k0).
+1766346598: New connection from 172.18.0.1:37462 on port 1883.
+1766346598: Client esp32_lab_01 already connected, closing old connection.
+1766346598: New client connected from 172.18.0.1:37462 as esp32_lab_01 (p2, c1, k0).
+1766346603: New connection from 172.18.0.1:37478 on port 1883.
+1766346603: Client esp32_lab_01 already connected, closing old connection.
+1766346603: New client connected from 172.18.0.1:37478 as esp32_lab_01 (p2, c1, k0).
+1766346609: New connection from 172.18.0.1:50026 on port 1883.
+1766346609: Client esp32_lab_01 already connected, closing old connection.
+1766346609: New client connected from 172.18.0.1:50026 as esp32_lab_01 (p2, c1, k0).
+1766346614: New connection from 172.18.0.1:50608 on port 1883.
+1766346614: Client esp32_lab_01 already connected, closing old connection.
+1766346614: New client connected from 172.18.0.1:50608 as esp32_lab_01 (p2, c1, k0).
+1766346619: New connection from 172.18.0.1:50624 on port 1883.
+1766346619: Client esp32_lab_01 already connected, closing old connection.
+1766346619: New client connected from 172.18.0.1:50624 as esp32_lab_01 (p2, c1, k0).
+1766346625: New connection from 172.18.0.1:39690 on port 1883.
+1766346625: Client esp32_lab_01 already connected, closing old connection.
+1766346625: New client connected from 172.18.0.1:39690 as esp32_lab_01 (p2, c1, k0).
+1766346630: New connection from 172.18.0.1:39694 on port 1883.
+1766346630: Client esp32_lab_01 already connected, closing old connection.
+1766346630: New client connected from 172.18.0.1:39694 as esp32_lab_01 (p2, c1, k0).
+1766346636: New connection from 172.18.0.1:33548 on port 1883.
+1766346636: Client esp32_lab_01 already connected, closing old connection.
+1766346636: New client connected from 172.18.0.1:33548 as esp32_lab_01 (p2, c1, k0).
+1766346641: New connection from 172.18.0.1:33562 on port 1883.
+1766346641: Client esp32_lab_01 already connected, closing old connection.
+1766346641: New client connected from 172.18.0.1:33562 as esp32_lab_01 (p2, c1, k0).
+1766346646: New connection from 172.18.0.1:45290 on port 1883.
+1766346646: Client esp32_lab_01 already connected, closing old connection.
+1766346646: New client connected from 172.18.0.1:45290 as esp32_lab_01 (p2, c1, k0).
+1766346652: New connection from 172.18.0.1:45300 on port 1883.
+1766346652: Client esp32_lab_01 already connected, closing old connection.
+1766346652: New client connected from 172.18.0.1:45300 as esp32_lab_01 (p2, c1, k0).
+1766346657: New connection from 172.18.0.1:53316 on port 1883.
+1766346657: Client esp32_lab_01 already connected, closing old connection.
+1766346657: New client connected from 172.18.0.1:53316 as esp32_lab_01 (p2, c1, k0).
+1766346663: New connection from 172.18.0.1:53332 on port 1883.
+1766346663: Client esp32_lab_01 already connected, closing old connection.
+1766346663: New client connected from 172.18.0.1:53332 as esp32_lab_01 (p2, c1, k0).
+1766346668: New connection from 172.18.0.1:35952 on port 1883.
+1766346668: Client esp32_lab_01 already connected, closing old connection.
+1766346668: New client connected from 172.18.0.1:35952 as esp32_lab_01 (p2, c1, k0).
+1766346673: New connection from 172.18.0.1:46544 on port 1883.
+1766346674: Client esp32_lab_01 already connected, closing old connection.
+1766346674: New client connected from 172.18.0.1:46544 as esp32_lab_01 (p2, c1, k0).
+1766346679: New connection from 172.18.0.1:46558 on port 1883.
+1766346679: Client esp32_lab_01 already connected, closing old connection.
+1766346679: New client connected from 172.18.0.1:46558 as esp32_lab_01 (p2, c1, k0).
+1766346683: Client auto-027C097E-05E3-CE88-8754-96B6D605372C closed its connection.
+1766346683: mosquitto version 2.0.22 terminating
+1766346683: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1766346795: mosquitto version 2.0.22 starting
+1766346795: Config loaded from /mosquitto/config/mosquitto.conf.
+1766346795: Opening ipv4 listen socket on port 1883.
+1766346795: Opening ipv6 listen socket on port 1883.
+1766346795: mosquitto version 2.0.22 running
+1766346805: mosquitto version 2.0.22 terminating
+1766346805: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1766346914: mosquitto version 2.0.22 starting
+1766346914: Config loaded from /mosquitto/config/mosquitto.conf.
+1766346914: Opening ipv4 listen socket on port 1883.
+1766346914: Opening ipv6 listen socket on port 1883.
+1766346914: mosquitto version 2.0.22 running
+1766346924: New connection from 172.18.0.4:44701 on port 1883.
+1766346924: New client connected from 172.18.0.4:44701 as auto-1EF63D28-3D28-70F8-2850-64E6A2CC08DB (p2, c1, k60).
+1766346943: mosquitto version 2.0.22 terminating
+1766346943: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1766346943: mosquitto version 2.0.22 starting
+1766346943: Config loaded from /mosquitto/config/mosquitto.conf.
+1766346943: Opening ipv4 listen socket on port 1883.
+1766346943: Opening ipv6 listen socket on port 1883.
+1766346943: mosquitto version 2.0.22 running
+1766346954: New connection from 172.18.0.4:34621 on port 1883.
+1766346954: New client connected from 172.18.0.4:34621 as auto-9364AAFC-A27F-FEC5-076E-DA76192E4819 (p2, c1, k60).
+1766347065: New connection from 172.18.0.1:56396 on port 1883.
+1766347065: New client connected from 172.18.0.1:56396 as esp32_lab_01 (p2, c1, k0).
+1766347095: Client esp32_lab_01 closed its connection.
+1766347210: mosquitto version 2.0.22 terminating
+1766347210: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1766347211: mosquitto version 2.0.22 starting
+1766347211: Config loaded from /mosquitto/config/mosquitto.conf.
+1766347211: Opening ipv4 listen socket on port 1883.
+1766347211: Opening ipv6 listen socket on port 1883.
+1766347211: mosquitto version 2.0.22 running
+1766347222: New connection from 172.18.0.4:37359 on port 1883.
+1766347222: New client connected from 172.18.0.4:37359 as auto-0246684A-AAE8-D6B0-A80A-9ECE08C92F37 (p2, c1, k60).
+1766347225: New connection from 172.18.0.1:38980 on port 1883.
+1766347225: New client connected from 172.18.0.1:38980 as esp32_lab_01 (p2, c1, k0).
+1766347526: New connection from 172.18.0.1:47454 on port 1883.
+1766347526: Client esp32_lab_01 already connected, closing old connection.
+1766347526: New client connected from 172.18.0.1:47454 as esp32_lab_01 (p2, c1, k0).
+1766347826: New connection from 172.18.0.1:41440 on port 1883.
+1766347826: Client esp32_lab_01 already connected, closing old connection.
+1766347826: New client connected from 172.18.0.1:41440 as esp32_lab_01 (p2, c1, k0).
+1766348127: New connection from 172.18.0.1:40866 on port 1883.
+1766348127: Client esp32_lab_01 already connected, closing old connection.
+1766348127: New client connected from 172.18.0.1:40866 as esp32_lab_01 (p2, c1, k0).
+1766348427: New connection from 172.18.0.1:39448 on port 1883.
+1766348427: Client esp32_lab_01 already connected, closing old connection.
+1766348427: New client connected from 172.18.0.1:39448 as esp32_lab_01 (p2, c1, k0).
+1766348565: New connection from 172.18.0.1:48174 on port 1883.
+1766348565: Client esp32_lab_01 closed its connection.
+1766348565: New client connected from 172.18.0.1:48174 as esp32_lab_01 (p2, c1, k0).
+1766349114: New connection from 172.18.0.1:54488 on port 1883.
+1766349114: Client esp32_lab_01 already connected, closing old connection.
+1766349114: New client connected from 172.18.0.1:54488 as esp32_lab_01 (p2, c1, k0).
+1766349134: Client esp32_lab_01 closed its connection.
+1766349134: New connection from 172.18.0.1:37708 on port 1883.
+1766349139: New client connected from 172.18.0.1:37708 as esp32_lab_01 (p2, c1, k0).
+1766350048: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1766350225: New connection from 172.18.0.1:38094 on port 1883.
+1766350225: Client esp32_lab_01 already connected, closing old connection.
+1766350225: New client connected from 172.18.0.1:38094 as esp32_lab_01 (p2, c1, k0).
+1766350525: New connection from 172.18.0.1:34320 on port 1883.
+1766350525: Client esp32_lab_01 already connected, closing old connection.
+1766350525: New client connected from 172.18.0.1:34320 as esp32_lab_01 (p2, c1, k0).
+1766350826: New connection from 172.18.0.1:42048 on port 1883.
+1766350826: Client esp32_lab_01 already connected, closing old connection.
+1766350826: New client connected from 172.18.0.1:42048 as esp32_lab_01 (p2, c1, k0).
+1766351126: New connection from 172.18.0.1:40414 on port 1883.
+1766351126: Client esp32_lab_01 already connected, closing old connection.
+1766351126: New client connected from 172.18.0.1:40414 as esp32_lab_01 (p2, c1, k0).
+1766351426: New connection from 172.18.0.1:36102 on port 1883.
+1766351426: Client esp32_lab_01 already connected, closing old connection.
+1766351426: New client connected from 172.18.0.1:36102 as esp32_lab_01 (p2, c1, k0).
+1766351727: New connection from 172.18.0.1:47542 on port 1883.
+1766351727: Client esp32_lab_01 already connected, closing old connection.
+1766351727: New client connected from 172.18.0.1:47542 as esp32_lab_01 (p2, c1, k0).
+1766351851: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1766352027: New connection from 172.18.0.1:37900 on port 1883.
+1766352027: Client esp32_lab_01 already connected, closing old connection.
+1766352027: New client connected from 172.18.0.1:37900 as esp32_lab_01 (p2, c1, k0).
+1766352328: New connection from 172.18.0.1:43442 on port 1883.
+1766352328: Client esp32_lab_01 already connected, closing old connection.
+1766352328: New client connected from 172.18.0.1:43442 as esp32_lab_01 (p2, c1, k0).
+1766352628: New connection from 172.18.0.1:58628 on port 1883.
+1766352628: Client esp32_lab_01 already connected, closing old connection.
+1766352628: New client connected from 172.18.0.1:58628 as esp32_lab_01 (p2, c1, k0).
+1766352928: New connection from 172.18.0.1:43984 on port 1883.
+1766352928: Client esp32_lab_01 already connected, closing old connection.
+1766352928: New client connected from 172.18.0.1:43984 as esp32_lab_01 (p2, c1, k0).
+1766353229: New connection from 172.18.0.1:50186 on port 1883.
+1766353229: Client esp32_lab_01 already connected, closing old connection.
+1766353229: New client connected from 172.18.0.1:50186 as esp32_lab_01 (p2, c1, k0).
+1766353529: New connection from 172.18.0.1:33048 on port 1883.
+1766353529: Client esp32_lab_01 already connected, closing old connection.
+1766353529: New client connected from 172.18.0.1:33048 as esp32_lab_01 (p2, c1, k0).
+1766353654: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1766353830: New connection from 172.18.0.1:34472 on port 1883.
+1766353830: Client esp32_lab_01 already connected, closing old connection.
+1766353830: New client connected from 172.18.0.1:34472 as esp32_lab_01 (p2, c1, k0).
+1766354130: New connection from 172.18.0.1:40432 on port 1883.
+1766354130: Client esp32_lab_01 already connected, closing old connection.
+1766354130: New client connected from 172.18.0.1:40432 as esp32_lab_01 (p2, c1, k0).
+1766354430: New connection from 172.18.0.1:50510 on port 1883.
+1766354431: Client esp32_lab_01 already connected, closing old connection.
+1766354431: New client connected from 172.18.0.1:50510 as esp32_lab_01 (p2, c1, k0).
+1766354731: New connection from 172.18.0.1:44484 on port 1883.
+1766354731: Client esp32_lab_01 already connected, closing old connection.
+1766354731: New client connected from 172.18.0.1:44484 as esp32_lab_01 (p2, c1, k0).
+1766355031: New connection from 172.18.0.1:37696 on port 1883.
+1766355031: Client esp32_lab_01 already connected, closing old connection.
+1766355031: New client connected from 172.18.0.1:37696 as esp32_lab_01 (p2, c1, k0).
+1766355332: New connection from 172.18.0.1:35682 on port 1883.
+1766355332: Client esp32_lab_01 already connected, closing old connection.
+1766355332: New client connected from 172.18.0.1:35682 as esp32_lab_01 (p2, c1, k0).
+1766355457: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1766355632: New connection from 172.18.0.1:32836 on port 1883.
+1766355632: Client esp32_lab_01 already connected, closing old connection.
+1766355632: New client connected from 172.18.0.1:32836 as esp32_lab_01 (p2, c1, k0).
+1766355932: New connection from 172.18.0.1:47542 on port 1883.
+1766355933: Client esp32_lab_01 already connected, closing old connection.
+1766355933: New client connected from 172.18.0.1:47542 as esp32_lab_01 (p2, c1, k0).
+1766356233: New connection from 172.18.0.1:46228 on port 1883.
+1766356233: Client esp32_lab_01 already connected, closing old connection.
+1766356233: New client connected from 172.18.0.1:46228 as esp32_lab_01 (p2, c1, k0).
+1766356534: New connection from 172.18.0.1:36448 on port 1883.
+1766356534: Client esp32_lab_01 already connected, closing old connection.
+1766356534: New client connected from 172.18.0.1:36448 as esp32_lab_01 (p2, c1, k0).
+1766356834: New connection from 172.18.0.1:58738 on port 1883.
+1766356834: Client esp32_lab_01 already connected, closing old connection.
+1766356834: New client connected from 172.18.0.1:58738 as esp32_lab_01 (p2, c1, k0).
+1766357134: New connection from 172.18.0.1:46320 on port 1883.
+1766357134: Client esp32_lab_01 already connected, closing old connection.
+1766357134: New client connected from 172.18.0.1:46320 as esp32_lab_01 (p2, c1, k0).
+1766357260: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1766357435: New connection from 172.18.0.1:44994 on port 1883.
+1766357435: Client esp32_lab_01 already connected, closing old connection.
+1766357435: New client connected from 172.18.0.1:44994 as esp32_lab_01 (p2, c1, k0).
+1766357735: New connection from 172.18.0.1:52468 on port 1883.
+1766357735: Client esp32_lab_01 already connected, closing old connection.
+1766357735: New client connected from 172.18.0.1:52468 as esp32_lab_01 (p2, c1, k0).
+1766358036: New connection from 172.18.0.1:55962 on port 1883.
+1766358036: Client esp32_lab_01 already connected, closing old connection.
+1766358036: New client connected from 172.18.0.1:55962 as esp32_lab_01 (p2, c1, k0).
+1766358086: Client esp32_lab_01 closed its connection.
+1766358086: New connection from 172.18.0.1:49080 on port 1883.
+1766358086: New client connected from 172.18.0.1:49080 as esp32_lab_01 (p2, c1, k0).
+1766360400: New connection from 172.18.0.1:48178 on port 1883.
+1766360400: Client esp32_lab_01 already connected, closing old connection.
+1766360400: New client connected from 172.18.0.1:48178 as esp32_lab_01 (p2, c1, k0).
+1766360431: Client esp32_lab_01 closed its connection.
+1766360431: New connection from 172.18.0.1:58236 on port 1883.
+1766360431: New client connected from 172.18.0.1:58236 as esp32_lab_01 (p2, c1, k0).
+1766361011: New connection from 172.18.0.1:34742 on port 1883.
+1766361011: Client esp32_lab_01 already connected, closing old connection.
+1766361011: New client connected from 172.18.0.1:34742 as esp32_lab_01 (p2, c1, k0).
+1766398082: Client esp32_lab_01 closed its connection.
+1766398083: New connection from 172.18.0.1:58060 on port 1883.
+1766398083: New client connected from 172.18.0.1:58060 as esp32_lab_01 (p2, c1, k0).
+1766398458: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1766398498: New connection from 172.18.0.1:57034 on port 1883.
+1766398498: Client esp32_lab_01 already connected, closing old connection.
+1766398498: New client connected from 172.18.0.1:57034 as esp32_lab_01 (p2, c1, k0).
+1766398799: New connection from 172.18.0.1:42020 on port 1883.
+1766398799: Client esp32_lab_01 already connected, closing old connection.
+1766398799: New client connected from 172.18.0.1:42020 as esp32_lab_01 (p2, c1, k0).
+1766402672: Client esp32_lab_01 closed its connection.
+1766402673: New connection from 172.18.0.1:40758 on port 1883.
+1766402673: New client connected from 172.18.0.1:40758 as esp32_lab_01 (p2, c1, k0).
+1766404005: Client auto-0246684A-AAE8-D6B0-A80A-9ECE08C92F37 closed its connection.
+1766404005: mosquitto version 2.0.22 terminating
+1766404005: Saving in-memory database to /mosquitto/data//mosquitto.db.

@@ -1,0 +1,31 @@
+# --- SEGURANÇA E SEGREDOS ---
+# Ignora arquivos de variáveis de ambiente com senhas
+.env
+
+# Ignora o arquivo de credenciais da ESP32
+secrets.py
+
+# --- DOCKER E DADOS --
+# Ignora o volume do banco de dados (evita subir GBs de dados e corrupção)
+postgres_data/
+
+# Ignora logs e persistência do Mosquitto
+mosquitto/data/
+mosquitto/log/
+
+# --- PYTHON ---
+# Ignora cache de compilação
+__pycache__/
+*.py[cod]
+
+# Ignora ambientes virtuais locais (se houver)
+venv/
+.venv/
+env/
+
+# --- IDE E SISTEMA ---
+# Arquivos de configuração do VS Code, PyCharm, Mac e Windows
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

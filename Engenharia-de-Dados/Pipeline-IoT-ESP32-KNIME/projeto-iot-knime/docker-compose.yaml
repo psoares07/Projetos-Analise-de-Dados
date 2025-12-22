@@ -1,0 +1,50 @@
+version: '3.8'
+
+services:
+  # Serviço 1: Broker MQTT
+  mosquitto:
+    image: eclipse-mosquitto
+    container_name: iot_mosquitto
+    ports:
+      - "1883:1883"     # Porta para ESP32 e Scripts
+      - "9001:9001"     # WebSockets 
+    volumes:
+      - ./mosquitto/config:/mosquitto/config
+      - ./mosquitto/data:/mosquitto/data
+      - ./mosquitto/log:/mosquitto/log
+    restart: unless-stopped
+
+  # Serviço 2: Banco de Dados
+  postgres:
+    image: postgres:15
+    container_name: iot_postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+      TZ: ${TZ}
+    ports:
+      - "5432:5432"     # Porta para KNIME conectar
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init-db:/docker-entrypoint-initdb.d # Roda o init.sql ao criar
+    restart: unless-stopped
+  
+  # 3. Serviço 3: Python Ingestor
+  ingestor:
+    build: ./python_ingestor
+    container_name: iot_ingestor
+    depends_on:
+      - mosquitto
+      - postgres
+    environment:
+      MQTT_BROKER: mosquitto
+      DB_HOST: postgres
+      DB_NAME: ${POSTGRES_DB}
+      DB_USER: ${POSTGRES_USER}
+      DB_PASS: ${POSTGRES_PASSWORD}
+      PYTHONNUNBUFFERED: 1
+    restart: always
+
+volumes:
+  postgres_data:
