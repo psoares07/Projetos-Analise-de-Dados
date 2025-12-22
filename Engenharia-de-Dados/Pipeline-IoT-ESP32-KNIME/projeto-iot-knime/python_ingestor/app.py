@@ -6,8 +6,7 @@ from paho.mqtt.enums import CallbackAPIVersion
 import psycopg2
 from datetime import datetime
 
-# --- CONFIGURAÇÕES DE AMBIENTE (SECURITIZADO) ---
-# Ele confia inteiramente no docker-compose.yml para injetar estes valores.
+# --- CONFIGURAÇÕES DE AMBIENTE  ---
 
 MQTT_BROKER = os.getenv('MQTT_BROKER', 'mosquitto') # Default 'mosquitto' é aceitável aqui
 MQTT_TOPIC = "sensores/dados"
@@ -29,7 +28,6 @@ def get_db_connection():
         return conn
     except Exception as e:
         print(f"[ERRO DB] Falha ao conectar no Postgres: {e}")
-        # Dica de Debug: Mostra se as variáveis chegaram (sem mostrar a senha)
         print(f"Debug Info -> Host: {DB_HOST}, User: {DB_USER}, DB: {DB_NAME}")
         return None
 
