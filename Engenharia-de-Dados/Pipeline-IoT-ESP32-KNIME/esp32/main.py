@@ -4,7 +4,7 @@ import machine
 import dht
 from umqtt.simple import MQTTClient
 import ujson # Biblioteca otimizada para JSON
-import secrets # <--- Importamos as credenciais aqui
+import secrets # CREDENCIAIS
 
 # --- CONFIGURAÇÃO DE HARDWARE ---
 # Sensor DHT11 no GPIO 48
