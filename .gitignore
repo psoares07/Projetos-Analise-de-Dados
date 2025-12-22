@@ -1,4 +1,4 @@
-# --- SEGURANÇA E SEGREDOS ---
+# --- SEGURANÇA ---
 # Ignora arquivos de variáveis de ambiente com senhas
 .env
 
