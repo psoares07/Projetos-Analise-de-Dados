@@ -18,12 +18,12 @@ except Exception as e:
 ldr = machine.ADC(machine.Pin(7))     ## GPIO 7
 ldr.atten(machine.ADC.ATTN_11DB) 
 
-# --- METADADOS (Importante para DMBOK) ---
+# --- METADADOS ---
 SENSOR_ID = "esp32_lab_01"
 LOCATION = "escritorio_home"
 
 # --- Configuração MQTT ---
-# Não colocamos mais IPs ou Portas aqui
+# CREDENCIAIS MQTT
 MQTT_SERVER = secrets.MQTT_SERVER
 MQTT_PORT = secrets.MQTT_PORT
 MQTT_TOPIC = secrets.MQTT_TOPIC
@@ -63,10 +63,6 @@ def ler_sensores():
 
 def main_loop():
     print(f"Iniciando coleta de dados para {SENSOR_ID}...")
-    
-    # Criamos o cliente fora do loop para tentar manter a conexão,
-    # mas sua lógica original de reconectar dentro também funciona para resiliência.
-    # Vou manter sua estrutura original de reconexão para garantir robustez.
     
     while True:
         temp, hum, lum = ler_sensores()
